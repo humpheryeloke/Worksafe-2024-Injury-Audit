@@ -1,0 +1,71 @@
+﻿check_id,check_name,result,affected_records,affects_audit,recommended_action
+DQ01,Total rows (2024 incidents),9034 rows,9034,No,Reference count for all later checks.
+DQ02,Unique incident identifiers (ID),9034 distinct of 9034 rows,0,No,ID is a usable key. No action.
+DQ03,Rows sharing a repeated incident ID,0 rows in 0 repeated IDs,0,No,None found; no de-duplication needed.
+DQ04,Unique UPA (establishment-incident) identifiers,9034 distinct of 9034 rows,0,No,UPA is also one-per-row in 2024. No action.
+DQ05,Exact duplicate records (all fields except ID/UPA),2 rows in 1 duplicate groups,2,Minor,"Inspected: consecutive IDs, same date, narrative and codes (two workers in one event). Kept in the data; excluded from the sampling frame."
+DQ06,Identical narrative text on more than one record,2 rows in 1 groups,2,Minor,Same pair as DQ05. Kept in the data; excluded from the review sampling frame.
+DQ07,Missing or blank narratives,0 rows,0,Yes,"None found. Review requires a narrative; blank ones would be excluded, not deleted."
+DQ08,Very short narratives (under 60 characters),"9 rows; overall min 35, average 215, max 881 characters",9,Yes,Short narratives limit what can be coded. Exclude from the sampling frame; report overall length profile.
+DQ09,Narratives with leading/trailing whitespace,0 rows,0,No,Trim for display; no effect on review.
+DQ10,Narratives containing embedded line breaks,131 rows,131,No,Replace line breaks with a space when writing to the review workbook.
+DQ11,Missing or blank code: Event,0 rows,0,Yes,None found. A blank code would be excluded from that field's comparison only.
+DQ11,Missing or blank code: Nature,0 rows,0,Yes,None found. A blank code would be excluded from that field's comparison only.
+DQ11,Missing or blank code: Part of body,0 rows,0,Yes,None found. A blank code would be excluded from that field's comparison only.
+DQ11,Missing or blank code: Secondary source,0 rows,0,Yes,None found. A blank code would be excluded from that field's comparison only.
+DQ11,Missing or blank code: Source,0 rows,0,Yes,None found. A blank code would be excluded from that field's comparison only.
+DQ12,Missing or blank title: Event,0 rows,0,Yes,None found.
+DQ12,Missing or blank title: Nature,0 rows,0,Yes,None found.
+DQ12,Missing or blank title: Part of body,0 rows,0,Yes,None found.
+DQ12,Missing or blank title: Secondary source,0 rows,0,Yes,None found.
+DQ12,Missing or blank title: Source,0 rows,0,Yes,None found.
+DQ13,Code with leading/trailing whitespace or non-numeric characters: Event,0 rows,0,No,None found; codes join cleanly to the manual.
+DQ13,Code with leading/trailing whitespace or non-numeric characters: Nature,0 rows,0,No,None found; codes join cleanly to the manual.
+DQ13,Code with leading/trailing whitespace or non-numeric characters: Part of body,0 rows,0,No,None found; codes join cleanly to the manual.
+DQ13,Code with leading/trailing whitespace or non-numeric characters: Secondary source,0 rows,0,No,None found; codes join cleanly to the manual.
+DQ13,Code with leading/trailing whitespace or non-numeric characters: Source,0 rows,0,No,None found; codes join cleanly to the manual.
+DQ14,Title with leading/trailing whitespace: Event,9034 of 9034 rows,9034,No,Trim titles (TRIM) before grouping or comparing. Applied in all audit queries.
+DQ14,Title with leading/trailing whitespace: Nature,9034 of 9034 rows,9034,No,Trim titles (TRIM) before grouping or comparing. Applied in all audit queries.
+DQ14,Title with leading/trailing whitespace: Part of body,9034 of 9034 rows,9034,No,Trim titles (TRIM) before grouping or comparing. Applied in all audit queries.
+DQ14,Title with leading/trailing whitespace: Secondary source,9034 of 9034 rows,9034,No,Trim titles (TRIM) before grouping or comparing. Applied in all audit queries.
+DQ14,Title with leading/trailing whitespace: Source,9033 of 9034 rows,9033,No,Trim titles (TRIM) before grouping or comparing. Applied in all audit queries.
+DQ15,Distinct codes: Event,211 distinct codes,,No,Information only; shows the size of the code space the review draws on.
+DQ15,Distinct codes: Nature,107 distinct codes,,No,Information only; shows the size of the code space the review draws on.
+DQ15,Distinct codes: Part of body,119 distinct codes,,No,Information only; shows the size of the code space the review draws on.
+DQ15,Distinct codes: Secondary source,578 distinct codes,,No,Information only; shows the size of the code space the review draws on.
+DQ15,Distinct codes: Source,680 distinct codes,,No,Information only; shows the size of the code space the review draws on.
+DQ16,Codes with more than one raw title: Event,0 code(s),0,No,Raw variants differ only by whitespace (see DQ17); fixed by TRIM.
+DQ16,Codes with more than one raw title: Nature,0 code(s),0,No,Raw variants differ only by whitespace (see DQ17); fixed by TRIM.
+DQ16,Codes with more than one raw title: Part of body,0 code(s),0,No,Raw variants differ only by whitespace (see DQ17); fixed by TRIM.
+DQ16,Codes with more than one raw title: Secondary source,0 code(s),0,No,Raw variants differ only by whitespace (see DQ17); fixed by TRIM.
+DQ16,Codes with more than one raw title: Source,1 code(s),1,No,Raw variants differ only by whitespace (see DQ17); fixed by TRIM.
+DQ17,Codes with more than one TRIMMED title: Event,0 code(s),0,No,"After trimming, each recorded code maps to exactly one title."
+DQ17,Codes with more than one TRIMMED title: Nature,0 code(s),0,No,"After trimming, each recorded code maps to exactly one title."
+DQ17,Codes with more than one TRIMMED title: Part of body,0 code(s),0,No,"After trimming, each recorded code maps to exactly one title."
+DQ17,Codes with more than one TRIMMED title: Secondary source,0 code(s),0,No,"After trimming, each recorded code maps to exactly one title."
+DQ17,Codes with more than one TRIMMED title: Source,0 code(s),0,No,"After trimming, each recorded code maps to exactly one title."
+DQ18,Trimmed titles shared by more than one code: Event,0 title(s),0,Minor,"Source/secondary source 460 and 470 both read ""Vehicle and machine parts - unspecified"" in the manual itself (oiics_ref). Compare on code, never on title alone."
+DQ18,Trimmed titles shared by more than one code: Nature,0 title(s),0,Minor,"Source/secondary source 460 and 470 both read ""Vehicle and machine parts - unspecified"" in the manual itself (oiics_ref). Compare on code, never on title alone."
+DQ18,Trimmed titles shared by more than one code: Part of body,0 title(s),0,Minor,"Source/secondary source 460 and 470 both read ""Vehicle and machine parts - unspecified"" in the manual itself (oiics_ref). Compare on code, never on title alone."
+DQ18,Trimmed titles shared by more than one code: Secondary source,1 title(s),1,Minor,"Source/secondary source 460 and 470 both read ""Vehicle and machine parts - unspecified"" in the manual itself (oiics_ref). Compare on code, never on title alone."
+DQ18,Trimmed titles shared by more than one code: Source,1 title(s),1,Minor,"Source/secondary source 460 and 470 both read ""Vehicle and machine parts - unspecified"" in the manual itself (oiics_ref). Compare on code, never on title alone."
+DQ19,Recorded codes not found in OIICS 3.03: Event,0 rows,0,Yes,"None found; every recorded code exists in the 3.03 code list, so comparison is possible."
+DQ19,Recorded codes not found in OIICS 3.03: Nature,0 rows,0,Yes,"None found; every recorded code exists in the 3.03 code list, so comparison is possible."
+DQ19,Recorded codes not found in OIICS 3.03: Part of body,0 rows,0,Yes,"None found; every recorded code exists in the 3.03 code list, so comparison is possible."
+DQ19,Recorded codes not found in OIICS 3.03: Secondary source,0 rows,0,Yes,"None found; every recorded code exists in the 3.03 code list, so comparison is possible."
+DQ19,Recorded codes not found in OIICS 3.03: Source,0 rows,0,Yes,"None found; every recorded code exists in the 3.03 code list, so comparison is possible."
+DQ20,Recorded title differs from OIICS 3.03 title: Event,0 rows,0,Yes,Zero means code and title are internally consistent and match the manual wording.
+DQ20,Recorded title differs from OIICS 3.03 title: Nature,0 rows,0,Yes,Zero means code and title are internally consistent and match the manual wording.
+DQ20,Recorded title differs from OIICS 3.03 title: Part of body,0 rows,0,Yes,Zero means code and title are internally consistent and match the manual wording.
+DQ20,Recorded title differs from OIICS 3.03 title: Secondary source,0 rows,0,Yes,Zero means code and title are internally consistent and match the manual wording.
+DQ20,Recorded title differs from OIICS 3.03 title: Source,0 rows,0,Yes,Zero means code and title are internally consistent and match the manual wording.
+DQ21,Recorded code is unspecified or n.e.c.: Event,2486 rows (27.5%),2486,Yes,Compare at major-group and division level as well as exact code; unspecified codes are less precise by design.
+DQ21,Recorded code is unspecified or n.e.c.: Nature,2653 rows (29.4%),2653,Yes,Compare at major-group and division level as well as exact code; unspecified codes are less precise by design.
+DQ21,Recorded code is unspecified or n.e.c.: Part of body,3378 rows (37.4%),3378,Yes,Compare at major-group and division level as well as exact code; unspecified codes are less precise by design.
+DQ21,Recorded code is unspecified or n.e.c.: Secondary source,2194 rows (24.3%),2194,Yes,Compare at major-group and division level as well as exact code; unspecified codes are less precise by design.
+DQ21,Recorded code is unspecified or n.e.c.: Source,2413 rows (26.7%),2413,Yes,Compare at major-group and division level as well as exact code; unspecified codes are less precise by design.
+DQ22,Secondary source coded 991 (not applicable) or 990 (unspecified),2914 rows 991; 874 rows 990,3788,Yes,Large share carries no substantive secondary source; treat secondary source as exploratory in the review.
+DQ23,Amputation flag = 0 but Nature is 122* (amputation/avulsion/enucleation),51 rows,51,Minor,Likely avulsions/enucleations without a reportable amputation; internal-consistency note only.
+DQ24,Amputation flag >= 1 but Nature is not 122*,29 rows,29,Minor,Review in the discrepancy log if sampled; a multi-injury nature code can legitimately accompany an amputation.
+DQ25,None of Hospitalized / Amputation / Loss of Eye flagged,0 rows,0,No,Every severe-injury report should meet at least one criterion; zero means flags are complete.
+DQ26,Incidents split by reporting jurisdiction (FederalState),8820 federal OSHA; 214 state-plan,,Yes,"Findings describe this published file, not all US workplace injuries. State in the limitations."

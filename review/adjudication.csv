@@ -1,0 +1,195 @@
+review_id,field,category_code,reviewer_note
+1,P,R,Narrative states the right thigh was impaled; thigh (521) is supported.
+1,SS,G,Secondary source for the plasma-cutter track system is defensible as an item contributing to the event; narrative does not exclude it.
+2,E,G,Heat exposure (531x) versus overexertion/multiple body motion (738): order-of-precedence judgement under Event rule R2.b.
+2,N,N,'Muscle injury' from heat/overexertion is not specific enough to confirm 199 vs a sprain/strain or other nature.
+2,P,N,Blind coder flagged this field inconclusive; narrative does not give enough detail.
+2,S,G,Source follows the event chosen (bodily motion vs heat); consistent with recorded event.
+2,SS,G,"Heat recorded as secondary source, consistent with recorded event/source pair."
+3,E,R,'Bumped into' a dishwasher fits 6652 walked/ran into stationary object.
+3,P,G,"Hernia is an abdominal-wall condition; contact was at the pelvic area. Both parts defensible (Part R2, external part)."
+4,P,Pc,Narrative states bite on the back of the knee; recorded lower leg (523).
+4,SS,G,Tall vegetation described as the setting; recording it as secondary source is defensible.
+5,E,N,Blind coder flagged this field inconclusive; narrative does not give enough detail.
+5,S,N,Blind coder flagged this field inconclusive; narrative does not give enough detail.
+5,SS,N,Blind coder flagged this field inconclusive; narrative does not give enough detail.
+6,SS,R,Narrative states the rim struck the worker; rim (4713) is supported.
+7,N,R,Surgical above-knee amputation implies bone loss (1221).
+7,P,R,Amputation above the knee involves the thigh (521).
+8,N,N,'Head injury' alone does not specify brain injury; recorded 110 needs detail not in the narrative.
+8,P,N,Recorded brain (111); narrative says only 'head injury'.
+8,SS,G,Rain water vs nonchemical liquid; recorded rain (9523) is defensible for a puddle of rain water.
+9,E,Ps,Narrative supports a vehicle (forklift) running over a pedestrian worker; recorded 990 is less specific.
+10,E,Ps,Narrative supports a specific event (struck by shifting object handled by worker); recorded 990 is less specific.
+10,SS,N,Whether a secondary source exists (990) or not (991) cannot be determined from the narrative.
+11,E,G,Hot chemical splash: contact with hot substance (533) vs chemical exposure (555x); precedence judgement.
+11,N,G,Hot chemical splash: Nature 1590 explicitly includes chemical and heat burns; 1510 also defensible.
+12,E,G,Misfired pyrotechnics: 311 (intentionally set) vs 319 depends on whether the blast was intended.
+12,P,G,'Hands' may or may not include fingers; 440 vs 441 depends on fuller report.
+12,SS,N,Whether a secondary source applies cannot be determined from the narrative.
+13,E,G,Caught-in rollers vs contact with hot roller: order of precedence under Event R2.b (653 listed as an alternate).
+13,S,Ps,"Narrative identifies paper-processing rollers; recorded 360 (special process machinery, unspecified) is less specific."
+14,E,R,Roll dropped from the clamp is a falling object; 6439 n.e.c. is supported.
+14,N,G,Compartment syndrome after crushing; manual guidance for crush/compartment syndrome allows either coding.
+14,P,G,Hand-to-bicep coverage; 420 arm (unspecified) vs multiple hand/arm code.
+15,N,G,"Multiple injuries (brain, fractures, laceration); 180 vs 1811 turns on severity guidance."
+15,S,R,Narrative says a tree branch fell on the worker; 5463 limbs/branches is more specific and supported.
+15,SS,G,Tree vs branch as secondary source; both appear in the narrative.
+16,N,R,Fracture plus compartment syndrome are two natures (Nature R3); a multiple-injury code is supported.
+16,SS,G,Trailer on which the pipe was mounted could be coded as secondary source; narrative does not require it.
+18,P,N,Narrative describes two injured workers with hip and knee injuries; the recorded part covers only one injury. Cannot tell which worker the record describes.
+18,SS,R,Manual 6352 includes lamppost/area-lighting poles; 'light post' supports 6352.
+19,E,G,'Lost footing and fell': 4310 (unspecified) vs 4312 (slip/trip).
+19,N,G,Central cord syndrome is an incomplete cord injury; 1121 vs 1129 depends on how 'paralysis' is read.
+19,P,G,Upper back/lower neck: 21 neck structures vs neck-and-back combination code.
+20,E,Pc,"Table-saw blade cutting the thumb is contact with a running blade (650/659), not being caught/entangled (653)."
+20,N,R,Amputated thumb with a table saw implies bone loss; 1221 supported.
+20,P,G,Thumb amputation plus palm laceration: single thumb code vs multiple hand/finger code (Part R4).
+21,E,G,"Manual Event 42 includes 'tripping or falling over curbs'; narrative describes a fall, supporting 4312. Both defensible."
+21,S,G,Source/secondary-source order follows the recorded event: surface fallen on vs curb tripped over.
+21,SS,G,As above: curb as secondary source is consistent with the recorded event 4312 guidance.
+22,E,R,Blade of a mower is an attached part of running equipment; 659 supported.
+24,N,R,'Sprained lower back' fits 1442 sprain/strain.
+25,E,G,1142 (while providing care) vs 1140 depends on whether the worker was providing care to the client.
+25,S,G,Narrative says 'client'; patient (5732) vs client (574) depends on service setting.
+26,E,N,Narrative does not state the ladder was shaken intentionally; Event 119 requires intent that the narrative does not establish.
+26,S,G,Source follows the recorded event (assailant); consistent with that choice.
+26,SS,G,Ladder as secondary source follows the recorded event.
+27,P,G,"Combination-code selection for shoulder, back and hard-hat strike; depends on the full injury list."
+27,SS,G,Lifting equipment vs panel as secondary source; narrative supports both.
+28,N,G,"Facial swelling after chromium exposure: 102 (swelling, literal) vs 167 (irritant reaction) is a rule-reading choice."
+29,SS,N,Narrative does not identify what struck the eye; rebar as secondary source cannot be confirmed.
+30,SS,G,Bodily condition (asthma) as secondary source is optional under guidance.
+31,E,Ps,Arm pulled between roller and drum is caught/compressed in running equipment (653); recorded 650 is less specific.
+31,N,G,Manual lists friction burns under both 133 and 1591; both defensible.
+31,S,Ps,Narrative identifies a casting drum/film machine; recorded 30 is less specific.
+31,SS,N,Whether a secondary source applies cannot be determined.
+32,N,G,"Brain bleed, concussion and fractures: multiple natures; 1112 vs 1811 is a precedence/severity choice."
+32,P,G,Head and wrist injuries: single brain code vs multi-part code (Part R4).
+32,SS,G,Ground as secondary source for the 20-25 ft fall is defensible.
+33,E,Ps,Fire involving a pump suggests machinery fire (324); recorded 320 is less specific.
+34,S,G,Baler vs compactor: narrative says 'bailer' without context; both coded machines are defensible.
+35,P,R,Broken ribs and punctured lung are internal chest locations (318).
+35,SS,R,Narrative says air was being added to the tire; air compressor (346) is supported.
+38,S,N,Blind coder flagged this field inconclusive; narrative does not give enough detail.
+39,E,R,Dryer falling out of a trailer is a falling object; 6439 supported.
+39,N,R,Manual 1110 includes unspecified head injury with visual disturbance (light sensitivity) or slurred speech; supported.
+39,P,R,Brain (111) follows from the 1110 nature.
+40,P,G,Scratches to face and compressed discs: single back code vs multi-part code.
+40,SS,G,Ground vs wrench as secondary source for a ladder fall; both appear.
+41,E,G,Piston pressing hand during clearing of a jam: 652 (maintenance/cleaning) vs 653 caught; precedence judgement.
+42,S,N,Narrative says 'garbage juice or a caustic fluid'; chemical vs garbage source cannot be determined.
+43,N,Ps,Dislocated/broken shoulder plus burns have a specific combination code (1825); recorded 189 n.e.c. is less specific.
+44,E,G,Fall of 7.5 ft with contact: 4142 vs 4122 depends on whether contact with an object contributed.
+44,SS,Pc,Pipe that struck the ladder initiated the event; recorded secondary source is the floor surface.
+45,P,G,Three broken fingers: 448 hand and fingers vs specific finger code.
+45,S,Ps,Triangle roller is a bending/rolling machine (3529); recorded 350 is less specific.
+46,P,G,Stab wounds to abdomen and lung: single lung code vs multi-location trunk code.
+46,S,N,Assailant motive is not stated; robber (5763) cannot be confirmed from the narrative.
+47,N,G,Snake bite is a poison/toxic effect; 160 vs allergic-reaction code is a rule-reading choice.
+47,P,N,Blind coder flagged this field inconclusive; narrative does not give enough detail.
+48,N,G,Cut ligaments: laceration vs tear/strain code is a rule-reading choice.
+48,P,G,Web between thumb and index finger spans hand and finger codes.
+48,S,R,Fish fillet machine is butchering-type machinery (3615); supported.
+49,S,G,Shooting by a client's son: criminal assailant (5769) is a reasonable reading; motive not stated.
+50,E,G,Fall onboard a vessel: Event 224/2244 vs generic fall to lower level; both defensible.
+50,P,Ps,"Narrative states fractured foot; 541 (foot, excluding toes) is supported and more specific than 540."
+51,SS,G,Scraper as secondary source is optional.
+52,E,G,"Tripped, then block fell on hands: fall (4311) vs struck by dropped object (6431); precedence judgement."
+52,S,G,Follows recorded event 4311 (surface fallen on).
+52,SS,G,Follows recorded event 4311 (object contacted as result of fall).
+53,E,N,Narrative does not state indoor/outdoor setting; recorded 5312 (outdoor) assumes it.
+54,N,R,Sprain/strain; 1442 fits.
+54,S,G,Toolbox: boxes/crates vs cabinets/cases; both defensible.
+54,SS,N,Whether a hand tool was involved cannot be determined.
+55,E,G,Cap blew off and struck the saw into the face; 659 vs 6422 depends on treating the saw or the cap as the striking object.
+55,S,G,Saw vs fitting as source: depends on the same event interpretation.
+55,SS,G,Safety glasses are mentioned; recorded 9225 is defensible.
+57,P,R,Hernia is an abdominal-wall condition (330).
+58,E,G,Metal propelled by a pneumatic stapler: discharged vs dislodged object.
+58,S,N,Narrative says 'a piece of metal'; staple vs metal chip cannot be determined.
+59,E,G,Assault: 1149 (n.e.c.) vs 1140; manual order for hitting/kicking vs beating.
+59,P,G,Head injuries plus hand/hip/back injuries: head-only code vs multi-part code.
+59,S,R,Carpenter on the same site as work associate; 5729 supported.
+59,SS,G,Optional secondary source.
+60,P,G,"Skull fracture, hematoma and subarachnoid hemorrhage: brain vs multiple cranial structures."
+62,E,G,Caught between trailer and forklift: 2532 (pedestrian struck by vehicle) vs 654 (compressed between equipment); precedence.
+62,S,G,Source follows the recorded event.
+62,SS,G,Source follows the recorded event.
+63,E,G,Slipped and braced hand into machine: fall (4311) vs machine contact (652); precedence under R2.b.
+63,S,N,Blind coder flagged this field inconclusive; narrative does not give enough detail.
+63,SS,N,Source/secondary source depend on the event interpretation above.
+64,S,G,3619 (n.e.c.) vs 3610 (unspecified) for a batter machine.
+64,SS,G,Pump shaft is part of the machine; secondary source optional.
+66,P,R,Electric shock plus dislocated shoulder: body-systems-and-other-part code (883) supported.
+66,SS,G,Wiring vs ballast lighting equipment as secondary source.
+67,E,R,Narrative states the worker was calming a patient; 1142 (while providing care) supported.
+67,SS,G,Guard as co-worker secondary source is optional.
+68,N,R,Welts plus respiratory difficulty are combined skin and systemic reactions; manual 168 supports it.
+68,P,R,Skin and systemic effects: 883 supported.
+70,P,G,"Forearm, elbow and upper arm: multiple arm (428) vs multiple upper-extremity n.e.c. (489)."
+70,S,G,Glue/laminating machine: specific machine code vs unspecified.
+71,E,G,Prolonged vs unspecified inhalation exposure.
+71,S,R,Legionella is a bacterium; 5311 supported.
+71,SS,G,Coolant (recorded) vs lathe; narrative supports both.
+72,E,G,Generator fire during refueling: machinery fire (324) vs fire unspecified.
+72,P,R,"Arms, hands, neck and face are listed parts; 899 more appropriate than unspecified."
+72,SS,R,Gasoline (petroleum fuel) is stated in the narrative.
+73,N,R,Nerve damage; pinched nerve (146) is defensible.
+73,SS,G,Lock-out/tag-out is mentioned; recorded as secondary source.
+74,E,Ps,Welding burns support contact with hot objects/substances; recorded 990 is less specific.
+74,P,R,Multiple listed parts; 899 supported.
+74,S,Ps,Welding torch/rods supported; recorded 990 is less specific.
+74,SS,N,Whether a secondary source exists cannot be determined.
+75,E,Ps,Air spring burst is a pressure-vessel type explosion (313); recorded 310 is less specific.
+75,N,G,Head and hearing injuries: single intracranial code vs multiple traumatic injuries.
+75,P,G,Part follows nature choice.
+75,S,R,Air spring is part of the suspension; 4716 supported.
+75,SS,G,Truck as secondary source optional.
+76,S,G,Panel from a crate: panel vs crate as source.
+76,SS,G,Swap of source/secondary source for the same two items.
+77,E,R,Mower stopped after hitting a rock; 2723 collision with stationary object supported.
+77,N,Ps,Large-intestine injury; 1232 (closed trauma) is more specific than 1230.
+77,P,Ps,"Narrative names an injury to the large intestine; Part rule 2.a.2 says to code the specific organ when known (3333). Recorded 330 (abdomen, unspecified) is less specific."
+77,S,G,Narrative says walk-behind mower with standing attachment; walk-behind vs riding is ambiguous.
+78,P,G,'Hands' with or without fingers.
+78,S,G,Panel strings from a battery assembly: switchboard vs solar panel; narrative ambiguous.
+79,E,G,Pinned against machine by shifting pallets: caught/wedged (664) vs struck by sliding objects (663).
+80,P,R,Legs and feet are named; 5829 supported over unspecified.
+80,SS,R,Narrative states a plastic bucket; 2113 supported.
+81,E,G,Conveyor contacting hand: 653 vs 650.
+82,E,G,22 ft fall after lifeline failure: 4142 vs 4112 (collapsing equipment).
+82,P,G,Arm fracture and punctured lung: single lung code vs multi-part code.
+82,S,R,Manual 6352 includes area-lighting poles; supported.
+82,SS,R,Lifeline is fall-protection equipment (9222).
+83,E,G,Work-zone qualifier not stated; 2512 vs 2500.
+83,N,N,'Head trauma' alone does not support 1110 intracranial injury.
+83,P,N,Recorded brain (111); narrative says 'head trauma'.
+83,SS,G,Barriers as secondary source optional.
+84,N,G,"Head injury, lung injury and fractures: multiple natures."
+84,P,R,"Head, lung, lower back, ankle: multiple parts; 899 supported."
+84,S,G,Load-handling device: elevators/hoists vs material handling machinery.
+84,SS,G,Autonomous/robotic failure as secondary source optional.
+85,E,N,Fall height is not stated; <6 ft (4131) cannot be confirmed.
+86,E,G,Tractor struck tree and limb fell on worker: collision (2723) vs vehicle struck by falling object (2721).
+86,N,R,Facial lacerations and head trauma are multiple natures; 180 supported.
+87,E,G,Truck struck from behind: 2612 vs 2614 depends on whether the truck was moving or stopped.
+87,S,Ps,Narrative mentions a lift gate; recorded 8430 is less specific than a truck with mounted equipment (8420).
+88,N,G,Allergic reaction with arrest: anaphylaxis (162) not named; 169 defensible.
+88,S,G,Steam vs food: narrative supports both.
+88,SS,G,Swap of source/secondary source for the same two items.
+89,S,N,Narrative says 'small boat'; motorboat not stated.
+89,SS,R,Swell/waves are stated; 9527 supported.
+90,E,G,Slipped on truck steps and fell: 4131 vs 42.
+90,SS,R,Narrative says head struck a metal phone box; 7511 supported.
+93,N,Pc,Recorded 'damage to replaced joints' is not supported by a narrative describing a fracture of the knee after a trip.
+95,E,Ps,Chemical reaction causing combustion supports a fire/explosion specific code; recorded 30 is less specific.
+95,P,R,Multiple listed parts; 899 supported.
+96,S,R,Walkway that broke is a catwalk-type structure; 6344 supported.
+96,SS,G,Optional secondary source.
+97,E,N,Blind coder flagged this field inconclusive; narrative does not give enough detail.
+97,SS,R,Demolition saw is stated; 7122 supported.
+98,SS,Ps,Ground surface is stated; recorded 660 is less specific than 6636.
+99,SS,R,Narrative states contact with an open electrical cabinet; 4615 supported.
+100,N,R,Fractured ribs plus lacerated spleen: multiple severe wounds/internal injuries (128) supported.
+100,SS,G,Ground vs other constructed surface; narrative says 'the ground'.

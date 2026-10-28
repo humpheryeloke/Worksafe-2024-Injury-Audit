@@ -1,0 +1,26 @@
+﻿field_name,code_relation,n
+Event/Exposure,1 Exact,53
+Event/Exposure,4 Same minor group (3-digit),12
+Event/Exposure,5 Same major group (2-digit),14
+Event/Exposure,6 Same division only,5
+Event/Exposure,7 Different division,11
+Nature,1 Exact,69
+Nature,4 Same minor group (3-digit),7
+Nature,5 Same major group (2-digit),9
+Nature,6 Same division only,11
+Nature,7 Different division,1
+Part of body,1 Exact,60
+Part of body,4 Same minor group (3-digit),1
+Part of body,5 Same major group (2-digit),13
+Part of body,6 Same division only,13
+Part of body,7 Different division,8
+Secondary source,1 Exact,51
+Secondary source,4 Same minor group (3-digit),2
+Secondary source,5 Same major group (2-digit),9
+Secondary source,6 Same division only,4
+Secondary source,7 Different division,34
+Source,1 Exact,61
+Source,4 Same minor group (3-digit),8
+Source,5 Same major group (2-digit),10
+Source,6 Same division only,6
+Source,7 Different division,9

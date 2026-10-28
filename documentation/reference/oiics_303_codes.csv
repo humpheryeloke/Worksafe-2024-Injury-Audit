@@ -1,0 +1,2892 @@
+field,code,title,hierarchy
+nature,1,TRAUMATIC INJURIES AND DISORDERS,1s
+nature,10,Traumatic injuries or exposures-- nonspecific and unspecified,2s
+nature,100,Traumatic injuries or exposures— unspecified,3
+nature,101,"Numbness, tingling",3
+nature,102,"Soreness, swelling, inflammation",3
+nature,103,Nonfatal 'crushing' injuries,3
+nature,109,Other symptoms of unspecified traumatic injury or exposure— n.e.c.,3
+nature,11,"Injuries to the brain, spinal cord",2s
+nature,110,"Injuries to the brain, spinal cord— unspecified",3
+nature,111,Intracranial Injuries,3s
+nature,1110,Intracranial injuries— unspecified,4
+nature,1111,Intracranial injuries with skull fractures,4
+nature,1112,Cerebral and other intracranial hemorrhages without skull fracture,4
+nature,1113,Concussions,4
+nature,1119,Other Intracranial injuries without skull fractures— n.e.c.,4
+nature,112,"Spinal cord injuries, paralysis",3s
+nature,1120,"Spinal cord injuries, paralysis— unspecified",4
+nature,1121,"Paralysis, paraplegia, quadriplegia",4
+nature,1129,"Spinal cord injuries, paralysis— n.e.c.",4
+nature,118,"Multiple types of injuries to the brain, spinal cord",3
+nature,119,"Other injuries to the brain, spinal cord— n.e.c.",3
+nature,12,"Severe wounds, internal injuries",2s
+nature,120,"Severe wounds, internal injuries— unspecified",3
+nature,121,Gunshot wounds,3
+nature,122,"Amputations, avulsions, enucleations",3s
+nature,1220,"Amputations, avulsions, enucleations— unspecified",4
+nature,1221,Amputations involving bone loss,4
+nature,1222,"Avulsions, enucleations without bone loss",4
+nature,123,Injuries to internal organs and major blood vessels,3s
+nature,1230,"Injuries to internal organs, major blood vessels— unspecified",4
+nature,1231,"Open wounds involving internal organs, major blood vessels",4
+nature,1232,"Closed trauma involving internal organs, major blood vessels",4
+nature,1238,"Multiple open and closed wounds involving internal organs, major blood vessels",4
+nature,1239,"Injuries to internal organs, major blood vessels— n.e.c.",4
+nature,124,Fractures,3
+nature,128,Multiple severe wounds and internal injuries,3
+nature,129,"Severe wounds, internal injuries— n.e.c.",3
+nature,13,Surface and flesh wounds,2s
+nature,130,Surface and flesh wounds— unspecified,3
+nature,131,Injuries specific to eyes,3s
+nature,1311,"Eye abrasion(s), irritation— except chemical or allergic",4
+nature,1312,Retinal tear,4
+nature,132,"Cuts, lacerations, punctures without injury to internal structures",3
+nature,133,Abrasions,3
+nature,134,"Bruises, contusions",3
+nature,135,Blisters,3
+nature,136,Ruptured eardrum,3
+nature,137,Dental injuries,3
+nature,138,Multiple surface and flesh wounds,3
+nature,139,Surface and flesh wounds— n.e.c.,3
+nature,14,Soft tissue injuries,2s
+nature,140,Soft tissue injuries— unspecified,3
+nature,141,Dislocations,3
+nature,142,Hernias,3
+nature,143,Cartilage fractures and tears,3s
+nature,1430,Cartilage fractures and tears— unspecified,4
+nature,1431,Meniscus tear,4
+nature,1439,Other cartilage fractures and tears— n.e.c.,4
+nature,144,"Sprains, strains, tears",3s
+nature,1440,"Sprains, strains, tears— unspecified",4
+nature,1441,"Major tears to muscles, tendons, ligaments",4
+nature,1442,"Sprains, strains, minor tears",4
+nature,1448,"Multiple major and minor sprains, strains, tears",4
+nature,145,Whiplash,3
+nature,146,Pinched nerve,3
+nature,148,Multiple soft tissue injuries,3
+nature,149,Soft tissue injuries— n.e.c.,3
+nature,15,"Burns, corrosions, electrical injuries",2s
+nature,150,"Burns, corrosions, electrical injuries— unspecified",3
+nature,151,"Chemical burns, corrosions",3s
+nature,1510,"Chemical burns, corrosions— degree unspecified",4
+nature,1511,"Chemical burns, corrosions— first degree",4
+nature,1512,"Chemical burns, corrosions— second degree",4
+nature,1513,"Chemical burns, corrosions— third degree or higher",4
+nature,152,Thermal burns,3s
+nature,1520,Thermal burns— degree unspecified,4
+nature,1521,Thermal burns— first degree,4
+nature,1522,Thermal burns— second degree,4
+nature,1523,Thermal burns— third degree or higher,4
+nature,153,Effects of electric current,3s
+nature,1530,Effects of electric current— unspecified,4
+nature,1531,Electrical burns— any degree,4
+nature,1532,"Electrocution, electric shock",4
+nature,1538,Electrical burns and electrocution,4
+nature,159,Other or multiple types of burns,3s
+nature,1590,Other or multiple types of burns— degree unspecified,4
+nature,1591,Other or multiple types of burns— first degree,4
+nature,1592,Other or multiple types of burns— second degree,4
+nature,1593,Other or multiple types of burn— third degree or higher,4
+nature,16,"Effects of poison, toxic, or allergenic exposure",2s
+nature,160,"Effects of poison, toxic, or allergenic exposure— unspecified",3
+nature,161,"Poisoning, poisoning-related asphyxia",3
+nature,162,"Anaphylactic shock, anaphylaxis",3
+nature,163,"Poison, toxic, or allergenic effects— other respiratory",3
+nature,164,"Poison, toxic, or allergenic effects—dizziness, headache",3
+nature,165,"Poison, toxic, or allergenic effects—nausea, vomiting",3
+nature,166,"Urticaria, hives— acute",3
+nature,167,Allergic and irritant dermatitis— acute,3
+nature,168,"Multiple effects of poison, toxic, or allergenic exposure",3
+nature,169,"Effects of poison, toxic, or allergenic exposure— n.e.c.",3
+nature,17,Effects of environmental conditions and exposures,2s
+nature,170,Effects of environmental conditions and exposures— unspecified,3
+nature,171,Effects of reduced temperature,3s
+nature,1710,Effects of reduced temperature— unspecified,4
+nature,1711,Frostbite,4
+nature,1712,Hypothermia,4
+nature,1718,Multiple effects of reduced temperature,4
+nature,1719,Effects of reduced temperature— n.e.c.,4
+nature,172,Effects of heat and light,3s
+nature,1720,Effects of heat— unspecified,4
+nature,1721,"Heat stroke, syncope",4
+nature,1722,"Heat exhaustion, fatigue",4
+nature,1729,Effects of heat— n.e.c.,4
+nature,173,Effects of air or water pressure,3s
+nature,1730,Effects of air or water pressure— unspecified,4
+nature,1731,Aero-otitis media,4
+nature,1732,Aero sinusitis,4
+nature,1733,"Caisson disease, bends, divers' palsy",4
+nature,1738,Multiple effects of air or water pressure,4
+nature,1739,Effects of air or water pressure— n.e.c.,4
+nature,174,"Drowning, near drowning",3
+nature,175,Asphyxiation— except toxic or allergenic,3
+nature,178,Multiple effects of environmental conditions and exposures,3
+nature,179,Other effects of environmental conditions and exposures— n.e.c.,3
+nature,18,Multiple traumatic injuries and disorders,2s
+nature,180,Multiple traumatic injuries and disorders— unspecified,3
+nature,181,"Injuries to the brain, spinal cord and other injuries",3s
+nature,1811,"Injuries to the brain, spinal cord and severe wounds, internal injuries",4
+nature,1812,"Injuries to the brain, spinal cord and soft tissue injuries",4
+nature,1813,"Injuries to the brain, spinal cord and burns",4
+nature,1814,"Injuries to the brain, spinal cord and toxic, allergenic effects",4
+nature,1815,"Injuries to the brain, spinal cord and effects of environmental exposure",4
+nature,182,Severe wounds or internal injuries and other injuries,3s
+nature,1821,Severe wounds or internal injuries and soft tissue injuries,4
+nature,1822,"Severe wounds, internal injuries and burns",4
+nature,1823,"Fractures and surface, flesh wounds",4
+nature,1824,Fractures and soft tissue injuries,4
+nature,1825,Fractures and burns,4
+nature,1826,"Severe wounds, internal injuries and toxic, allergenic effects",4
+nature,1827,"Severe wounds, internal injuries and electrocution, electric shock",4
+nature,183,Surface and flesh wounds and other injuries,3s
+nature,1831,"Surface, flesh wounds and soft tissue injuries",4
+nature,1832,"Surface, flesh wounds and toxic, allergenic effects",4
+nature,1833,"Surface, flesh wounds and burns, electrical injuries",4
+nature,184,Soft tissue injuries and other injuries,3s
+nature,1841,Soft tissue injuries and burns,4
+nature,1842,"Soft tissue injuries and toxic, allergenic effects",4
+nature,1843,Soft tissue injuries and effects of electrical current,4
+nature,185,Burns and toxic effects (including smoke inhalation),3
+nature,189,Other multiple traumatic injuries— n.e.c.,3
+nature,19,Traumatic injuries— n.e.c.,2s
+nature,191,Traumatic shock,3
+nature,199,Other traumatic injuries— n.e.c.,3
+nature,2,DISEASES AND DISORDERS OF BODY SYSTEMS,1s
+nature,20,Systemic diseases and disorders— unspecified,2
+nature,21,Anemia and other diseases of the blood and blood forming organs,2
+nature,22,Nervous system and sense organs diseases,2s
+nature,220,Nervous system and sense organs diseases— unspecified,3
+nature,221,Inflammatory diseases of the central nervous system,3
+nature,222,Degenerative diseases of the central nervous system,3
+nature,223,Other disorders of the central nervous system,3s
+nature,2230,Other disorders of the central nervous system— unspecified,4
+nature,2231,"Seizures, seizure disorder",4
+nature,2232,Migraine,4
+nature,2239,Other disorders of the central nervous system— n.e.c.,4
+nature,224,Disorders of the peripheral nervous system,3s
+nature,2240,Disorders of the peripheral nervous system— unspecified,4
+nature,2241,"Inflammatory and toxic neuropathy, toxic polyneuropathy",4
+nature,2242,Toxic myoneural disorders,4
+nature,2249,Disorders of the peripheral nervous system— n.e.c.,4
+nature,225,"Disorders of the eye, adnexa, vision",3s
+nature,2250,"Disorders of the eye, adnexa, vision— unspecified",4
+nature,2251,"Inflammation except conjunctivitis— including ophthalmia, iritis, chalazion",4
+nature,2252,Cataracts,4
+nature,2253,"Blindness, low vision, except traumatic",4
+nature,2254,Glaucoma,4
+nature,2255,Visual disturbances,4
+nature,2259,"Disorders of the eye, adnexa, vision— n.e.c.",4
+nature,226,"Disorders of the ear, mastoid process, hearing",3s
+nature,2260,"Disorders of the ear, mastoid process, hearing— unspecified",4
+nature,2261,"Deafness, hearing loss and impairment",4
+nature,2262,Tinnitus,4
+nature,2269,"Disorders of the ear, mastoid process, and hearing— n.e.c.",4
+nature,229,Nervous system and sense organs diseases— n.e.c.,3
+nature,23,Circulatory system diseases,2s
+nature,230,Circulatory system diseases— unspecified,3
+nature,231,Rheumatic fever with heart involvement,3
+nature,232,Hypertensive disease,3
+nature,233,"Ischemic heart disease, including heart attack",3s
+nature,2330,Ischemic heart disease— unspecified,4
+nature,2331,"Myocardial infarction, heart attack",4
+nature,2332,Angina,4
+nature,2339,Ischemic heart disease— n.e.c.,4
+nature,234,Diseases of pulmonary circulation,3s
+nature,2340,Diseases of pulmonary circulation— unspecified,4
+nature,2341,Pulmonary heart disease,4
+nature,2342,Pulmonary embolism,4
+nature,2349,Diseases of pulmonary circulation— n.e.c.,4
+nature,235,Other forms of heart disease,3s
+nature,2350,Other forms of heart disease— unspecified,4
+nature,2351,Toxic myocarditis,4
+nature,2352,Heart failure,4
+nature,2353,Ill-defined descriptions and complications of heart disease,4
+nature,2359,Other forms of heart disease— n.e.c.,4
+nature,236,Cerebrovascular disease,3s
+nature,2360,Cerebrovascular disease— unspecified,4
+nature,2361,Stroke,4
+nature,2362,Transient ischemia attacks,4
+nature,2369,Cerebrovascular disease— n.e.c.,4
+nature,237,"Diseases of arteries, arterioles, capillaries",3s
+nature,2370,"Diseases of arteries, arterioles, capillaries— unspecified",4
+nature,2371,Aneurysm—nontraumatic,4
+nature,2379,"Diseases of arteries, arterioles, capillaries— n.e.c.",4
+nature,238,"Diseases of the veins, lymphatics",3s
+nature,2380,"Diseases of the veins, lymphatics— unspecified",4
+nature,2381,Varicose veins,4
+nature,2382,Hemorrhoids,4
+nature,2383,"Phlebitis, thrombosis",4
+nature,2389,"Diseases of the veins, lymphatics— n.e.c.",4
+nature,239,Circulatory system diseases— n.e.c.,3
+nature,24,Respiratory system diseases,2s
+nature,240,Respiratory system diseases— unspecified,3
+nature,241,"Acute respiratory infections, secondary to infectious diseases",3s
+nature,2410,"Acute respiratory infections, secondary to infectious diseases— unspecified",4
+nature,2411,Pneumonia,4
+nature,2412,"Bronchitis, bronchiolitis",4
+nature,2419,"Other acute respiratory infections, secondary to infectious diseases— n.e.c.",4
+nature,242,Other diseases of upper respiratory tract,3
+nature,243,Chronic obstructive pulmonary disease and allied conditions,3s
+nature,2430,Chronic obstructive pulmonary disease and allied conditions— unspecified,4
+nature,2431,Chronic bronchial disorders,4
+nature,2432,Emphysema,4
+nature,2433,"Asthma, except intrinsic",4
+nature,2434,Extrinsic allergic alveolitis and hypersensitivity pneumonitis,4
+nature,2439,Chronic obstructive pulmonary diseases and allied conditions— n.e.c.,4
+nature,244,Pneumoconiosis,3s
+nature,2440,Pneumoconiosis— unspecified,4
+nature,2441,Coal workers' pneumoconiosis,4
+nature,2442,Asbestosis,4
+nature,2443,"Silicosis, talcosis",4
+nature,2444,"Byssinosis, mill fever",4
+nature,2445,Aluminosis,4
+nature,2446,Berylliosis,4
+nature,2447,Siderosis,4
+nature,2448,Pneumoconiosis with tuberculosis,4
+nature,2449,Pneumoconiosis— n.e.c.,4
+nature,249,Other respiratory system diseases,3s
+nature,2491,Pneumonitis— n.e.c.,4
+nature,2492,Pulmonary edema,4
+nature,2493,Other pulmonary fibrosis,4
+nature,2494,"Atelectasis, collapsed lung",4
+nature,2499,Other respiratory system diseases— n.e.c.,4
+nature,25,Digestive system diseases and disorders,2s
+nature,250,Digestive system diseases and disorders— unspecified,3
+nature,251,"Diseases of oral cavity, salivary glands, jaws",3
+nature,252,"Diseases of esophagus, stomach, duodenum",3
+nature,253,"Enteritis, colitis, ileitis— noninfectious",3
+nature,254,"Other diseases of intestines, peritoneum",3
+nature,255,Toxic hepatitis—noninfectious,3
+nature,259,Digestive system diseases and disorders— n.e.c.,3
+nature,26,Genitourinary system diseases and disorders,2s
+nature,260,Genitourinary system diseases and disorders— unspecified,3
+nature,261,"Nephritis, nephrotic syndrome, nephrosis",3s
+nature,2610,"Nephritis, nephrotic syndrome, nephrosis— unspecified",4
+nature,2611,Nephritis,4
+nature,2612,Nephrotic syndrome,4
+nature,2613,Nephrosis,4
+nature,262,Other diseases of urinary system,3
+nature,263,Diseases and disorders of the reproductive tract,3s
+nature,2630,Diseases and disorders of the reproductive tract— unspecified,4
+nature,2631,Infertility,4
+nature,2632,"Spontaneous abortion, miscarriage",4
+nature,2633,Other complications of pregnancy,4
+nature,2639,Diseases and disorders of the reproductive tract— n.e.c.,4
+nature,264,Disorders of breast,3
+nature,269,Genitourinary system diseases and disorders— n.e.c.,3
+nature,27,Musculoskeletal and connective tissue diseases and disorders,2s
+nature,270,Musculoskeletal and connective tissue diseases and disorders— unspecified,3
+nature,271,Arthropathies and related disorders (arthritis),3
+nature,272,Radiculopathy and disc disorders,3s
+nature,2720,Radiculopathy and disc disorders— unspecified,4
+nature,2721,Cervical Radiculopathy,4
+nature,2722,Sciatica,4
+nature,2723,"Disc disorders, herniated disc",4
+nature,2729,Radiculopathy and disc disorders— n.e.c.,4
+nature,273,Other Dorsopathies,3s
+nature,2730,Other Dorsopathies— unspecified,4
+nature,2731,Non-radicular Cervicobrachial disorders,4
+nature,2732,Lumbago,4
+nature,2733,Curvature of spine,4
+nature,2739,Other dorsopathies— n.e.c.,4
+nature,274,Other nerve impingement or entrapment— except the back,3s
+nature,2740,Other nerve impingement or entrapment— unspecified,4
+nature,2741,Carpal tunnel (CTS),4
+nature,2742,Tarsal tunnel (TTS),4
+nature,2749,Other nerve impingement or entrapment— n.e.c.,4
+nature,275,Soft and connective tissue disorders— except the back,3s
+nature,2750,Soft and connective tissue disorder— unspecified,4
+nature,2751,Bursitis,4
+nature,2752,Stenosing tenosynovitis,4
+nature,2753,"Other tenosynovitis, synovitis",4
+nature,2754,Epicondylitis,4
+nature,2755,Other or unspecified tendonitis,4
+nature,2756,Ganglion or cystic tumor,4
+nature,2757,Raynaud's syndrome,4
+nature,2758,Multiple soft tissue disorders,4
+nature,2759,Soft and connective tissue disorder— n.e.c.,4
+nature,276,"Osteopathies, chondropathies, acquired deformities",3
+nature,279,Musculoskeletal and connective tissue diseases and disorders— n.e.c.,3
+nature,28,Disorders of the skin and subcutaneous tissue,2s
+nature,280,Disorders of the skin and subcutaneous tissue— unspecified,3
+nature,281,Infections of the skin and subcutaneous tissue,3s
+nature,2810,Infections of the skin and subcutaneous tissue— unspecified,4
+nature,2811,"Cellulitis, abscess",4
+nature,2812,Impetigo,4
+nature,2813,Methicillin-resistant staphylococcus aureus (MRSA) infection,4
+nature,2814,Other staphylococcus skin infection,4
+nature,2815,Other or unspecified streptococcus skin infection,4
+nature,2819,Infections of the skin and subcutaneous tissue— n.e.c.,4
+nature,282,Dermatitis from long-term exposures,3
+nature,283,Diseases of sebaceous glands,3s
+nature,2830,Diseases of sebaceous glands— unspecified,4
+nature,2831,Acne,4
+nature,2832,Sebaceous cyst,4
+nature,2839,Diseases of sebaceous glands— n.e.c.,4
+nature,289,Other diseases and disorders of the skin and subcutaneous tissue,3s
+nature,2890,Other diseases and disorders of the skin and subcutaneous tissue— unspecified,4
+nature,2891,"Corns, calluses",4
+nature,2892,Ingrown nails and other nail diseases,4
+nature,2893,"Prickly heat, heat rash, and other disorders of sweat glands",4
+nature,2894,Chronic skin ulcers,4
+nature,2895,Autoimmune disorders affecting the skin,4
+nature,2899,Other diseases and disorders of the skin and subcutaneous tissue— n.e.c.,4
+nature,29,Other systemic diseases and disorders,2s
+nature,291,"Endocrine, nutritional, metabolic, and immunity disorders",3s
+nature,2910,"Endocrine, nutritional, metabolic, and immunity disorders— unspecified",4
+nature,2911,Diseases and disorders of thyroid gland,4
+nature,2912,Diseases and disorders of other endocrine glands,4
+nature,2913,Autoimmune disorders,4
+nature,2914,Allergic disorders,4
+nature,2919,"Endocrine, nutritional, metabolic, and immunity disorders— n.e.c.",4
+nature,299,Other systemic diseases and disorders— n.e.c.,3
+nature,3,INFECTIOUS AND PARASITIC DISEASES,1s
+nature,30,Infectious and parasitic diseases— unspecified,2
+nature,31,Bacterial diseases,2s
+nature,310,Bacterial diseases— unspecified,3s
+nature,3100,Unspecified clinical effects of bacterial diseases,4
+nature,3101,Bacterial Septicemia,4
+nature,3102,Bacterial inflammation of the central nervous system,4
+nature,3109,Other clinical effects of unspecified bacterial diseases,4
+nature,311,Tuberculosis,3
+nature,312,Zoonotic bacterial diseases,3s
+nature,3120,Zoonotic bacterial diseases— unspecified,4
+nature,3121,Anthrax,4
+nature,3122,Brucellosis,4
+nature,3123,Ornithosis,4
+nature,3129,Zoonotic bacterial diseases— n.e.c.,4
+nature,313,Syphilis and other venereal diseases,3
+nature,314,Other spirochetal diseases,3s
+nature,3140,Other spirochetal diseases— unspecified,4
+nature,3141,Leptospirosis,4
+nature,3149,Other spirochetal diseases— n.e.c.,4
+nature,319,Other bacterial diseases— n.e.c.,3s
+nature,3191,Leprosy,4
+nature,3192,"Diphtheria, whooping cough",4
+nature,3193,"Streptococcal sore throat, scarlatina",4
+nature,3194,Methicillin-resistant infection— except skin,4
+nature,3195,Meningococcal infection,4
+nature,3196,Tetanus,4
+nature,3197,Legionnaires' disease,4
+nature,3199,"Other bacterial diseases, n.e.c.",4
+nature,32,Viral diseases,2s
+nature,320,Viral diseases— unspecified,3
+nature,321,Human immunodeficiency virus (HIV) with or without Acquired immune deficiency syndrome (AIDS),3
+nature,322,Viral diseases affecting the central nervous system,3s
+nature,3220,Viral encephalitis— unspecified,4
+nature,3221,Rabies,4
+nature,3222,West Nile virus,4
+nature,3223,Zika virus (ZIKV),4
+nature,3224,Eastern Equine Encephalitis (Triple E),4
+nature,3225,Meningitis due to enterovirus,4
+nature,3229,Viral encephalitis— n.e.c.,4
+nature,323,Viral diseases accompanied by exanthem (eruptive fever),3s
+nature,3230,Viral diseases accompanied by exanthem (eruptive fever)— unspecified,4
+nature,3231,"Smallpox, variola and related viruses",4
+nature,3232,"Chicken pox, shingles",4
+nature,3233,Herpes simplex,4
+nature,3234,Measles,4
+nature,3235,"Rubella, German measles",4
+nature,3236,"Hand, foot, and mouth disease",4
+nature,3239,Viral diseases accompanied by exanthem (eruptive fever)— n.e.c.,4
+nature,324,Hemorrhagic viral disease,3s
+nature,3240,Hemorrhagic viral fevers— unspecified,4
+nature,3241,Yellow fever,4
+nature,3242,Dengue fever,4
+nature,3243,Ebola virus,4
+nature,3244,Marburg virus,4
+nature,3249,Hemorrhagic viral fevers— n.e.c.,4
+nature,325,Viral hepatitis,3s
+nature,3250,"Viral hepatitis, type unspecified",4
+nature,3251,Type A viral hepatitis (infectious hepatitis),4
+nature,3252,Type B viral hepatitis (serum hepatitis),4
+nature,3253,Type C viral hepatitis,4
+nature,3254,Type E viral hepatitis,4
+nature,3259,Viral hepatitis— n.e.c.,4
+nature,326,Viral diseases of the conjunctiva,3
+nature,327,Respiratory viral diseases,3s
+nature,3270,Respiratory viral diseases— unspecified,4
+nature,3271,Influenza—common,4
+nature,3272,Influenza—novel,4
+nature,3273,Coronavirus—common,4
+nature,3274,Coronavirus—novel,4
+nature,3275,Post COVID-19 condition,4
+nature,3276,Hanta virus,4
+nature,3279,Respiratory viral diseases— n.e.c.,4
+nature,329,Other diseases due to viruses,3s
+nature,3290,Other diseases due to viruses— unspecified,4
+nature,3291,Mumps,4
+nature,3292,Infectious mononucleosis,4
+nature,3299,Other diseases due to viruses— n.e.c.,4
+nature,33,Other non-viral arthropod-borne diseases,2s
+nature,330,Other non-viral arthropod-borne diseases— unspecified,3
+nature,331,Rickettsioses diseases,3s
+nature,3310,Rickettsioses diseases— unspecified,4
+nature,3311,Q fever,4
+nature,3312,Spotted fevers and tick typhus,4
+nature,3319,Rickettsioses diseases— n.e.c.,4
+nature,332,Malaria,3
+nature,333,Lyme disease,3
+nature,339,Other non-viral arthropod-borne diseases— n.e.c.,3
+nature,34,"Mycoses, fungal infections",2s
+nature,340,"Mycoses, fungal infections— unspecified",3
+nature,341,"Dermatophytosis, athlete's foot, tinea",3
+nature,342,Coccidioidomycosis,3
+nature,349,Mycoses— n.e.c.,3
+nature,35,"Helminthiases, worm infections",2
+nature,36,Infectious diseases peculiar to the intestines,2s
+nature,360,Infectious diseases peculiar to the intestines— unspecified,3
+nature,361,Cholera,3
+nature,362,Typhoid and paratyphoid fevers,3
+nature,363,Other salmonella infections,3
+nature,364,Other bacterial food poisoning,3
+nature,365,Clostridium difficilis (C. diff.),3
+nature,366,Other Colitis,3
+nature,367,Dysentery,3
+nature,369,Infectious diseases peculiar to the intestines— n.e.c.,3
+nature,39,Other infectious and parasitic diseases,2s
+nature,390,Other infectious and parasitic diseases— unspecified,3
+nature,391,"Pediculosis and phthirus infestation, lice",3
+nature,392,Scabies and other acariases,3
+nature,393,"Other infestations— including maggots, leeches, jigger disease",3
+nature,394,Toxoplasmosis,3
+nature,399,Other infectious and parasitic diseases— n.e.c.,3
+nature,4,"NEOPLASMS, TUMORS, AND CANCERS",1s
+nature,41,"Malignant neoplasms and tumors (cancers, carcinomas, sarcomas)",2s
+nature,410,"Malignant neoplasms and tumors (cancers, carcinomas, sarcomas)— unspecified",3
+nature,411,Malignant neoplasms and tumors of bone and articular cartilage,3
+nature,412,Malignant neoplasms and tumors of the skin,3s
+nature,4120,Malignant neoplasms and tumors of the skin— unspecified,4
+nature,4121,Melanoma of the skin (melanocarcinoma),4
+nature,4122,Non-melanoma skin cancer (squamous and basal cell),4
+nature,4128,Multiple malignant neoplasms and tumors of the skin,4
+nature,413,Malignant neoplasms and tumors of lymphatic and hematopoietic tissue,3s
+nature,4130,Malignant neoplasms and tumors of lymphatic and hematopoietic tissue— unspecified,4
+nature,4131,Lymphosarcoma and reticulosarcoma (lymphoma),4
+nature,4132,Hodgkin's disease,4
+nature,4133,Multiple myeloma,4
+nature,4134,Leukemias,4
+nature,4138,Multiple malignant neoplasms and tumors of lymphatic and hematopoietic tissue,4
+nature,4139,Malignant neoplasms and tumors of lymphatic and hematopoietic tissue— n.e.c.,4
+nature,414,"Malignant neoplasms of digestive organs (esophagus, stomach, liver, intestines)",3
+nature,415,"Malignant neoplasms of respiratory and intrathoracic (larynx, lung, sinuses, trachea)",3
+nature,416,Malignant neoplasms of mesothelial and soft tissue,3s
+nature,4161,Mesothelioma,4
+nature,4169,Malignant neoplasms of other connective and soft tissue,4
+nature,419,Malignant neoplasms and tumors of other sites,3
+nature,42,Benign neoplasms and tumors,2s
+nature,420,Benign neoplasms and tumors— unspecified,3
+nature,421,"Benign neoplasms of bone, connective tissue, and skin",3s
+nature,4210,"Benign neoplasms of bone, connective tissue, and skin— unspecified",4
+nature,4211,Benign neoplasms of bone and articular cartilage,4
+nature,4212,Lipoma (fatty tumor),4
+nature,4213,Benign neoplasms of the skin,4
+nature,4218,"Multiple benign neoplasms of bone, connective tissue, and skin",4
+nature,4219,"Benign neoplasms of bone, connective tissue, and skin— n.e.c.",4
+nature,429,Benign neoplasms and tumors of other sites,3s
+nature,4290,Benign neoplasms and tumors of other sites— unspecified,4
+nature,4291,Hemangioma and lymphangioma—any site,4
+nature,4298,Multiple benign neoplasms and tumors of other sites,4
+nature,4299,Benign neoplasms and tumors of other sites— n.e.c.,4
+nature,43,Neoplasms and tumors of unknown properties,2s
+nature,430,Neoplasms and tumors of unknown properties— unspecified,3
+nature,431,"Bone, articular cartilage neoplasms and tumors of unknown properties",3
+nature,432,Connective and other soft tissue neoplasms and tumors of unknown properties,3
+nature,433,Skin neoplasms and tumors of unknown properties,3
+nature,438,Multiple neoplasms and tumors of unknown properties,3
+nature,439,Neoplasms and tumors of other sites of unknown properties— n.e.c.,3
+nature,5,"SYMPTOMS, SIGNS, AND ILL-DEFINED CONDITIONS",1s
+nature,50,"Symptoms, signs, and ill-defined conditions— unspecified",2
+nature,51,Symptoms,2s
+nature,510,Symptoms— unspecified,3
+nature,511,General symptoms,3s
+nature,5110,General symptoms— unspecified,4
+nature,5111,Loss of consciousness—not heat related,4
+nature,5112,"Convulsions, seizures",4
+nature,5113,Malaise and fatigue,4
+nature,5114,Dizziness—general,4
+nature,5115,"Inflammation, swelling—general",4
+nature,5116,Numbness—general,4
+nature,5118,Multiple general symptoms,4
+nature,5119,General symptoms— n.e.c.,4
+nature,512,Symptoms involving nervous and musculoskeletal systems,3s
+nature,5120,Symptoms involving nervous and musculoskeletal systems— unspecified,4
+nature,5121,Spasms or tremors— n.e.c.,4
+nature,5122,Earache,4
+nature,5123,Eye strain,4
+nature,5128,Multiple symptoms involving nervous and musculoskeletal systems,4
+nature,5129,Symptoms involving nervous and musculoskeletal systems— n.e.c.,4
+nature,513,Symptoms involving skin and other integumentary tissue,3s
+nature,5130,Symptoms involving skin and other integumentary tissue— unspecified,4
+nature,5131,Edema (including dropsy),4
+nature,5132,Cyanosis,4
+nature,5133,Pallor and flushing,4
+nature,5138,Multiple symptoms involving skin and other integumentary tissue,4
+nature,5139,Symptoms involving skin and other integumentary tissue— n.e.c.,4
+nature,514,Symptoms involving head and neck,3s
+nature,5140,Symptoms involving head and neck— unspecified,4
+nature,5141,"Headache, except migraine",4
+nature,5142,"Loss of voice, voice disturbances",4
+nature,5148,Multiple symptoms involving head and neck,4
+nature,5149,Symptoms involving head and neck— n.e.c.,4
+nature,515,Symptoms involving cardiovascular system,3s
+nature,5150,Symptoms involving cardiovascular system— unspecified,4
+nature,5151,Unspecified tachycardia (rapid heartbeat),4
+nature,5152,Gangrene,4
+nature,5153,Enlargement of lymph nodes,4
+nature,5158,Multiple symptoms involving cardiovascular system,4
+nature,5159,Symptoms involving cardiovascular system— n.e.c.,4
+nature,516,Symptoms involving respiratory system and chest,3s
+nature,5160,Symptoms involving respiratory system and chest— unspecified,4
+nature,5161,Hyperventilation,4
+nature,5162,Hemoptysis (cough with hemorrhage),4
+nature,5163,Abnormal sputum,4
+nature,5164,Chest pain,4
+nature,5168,Multiple symptoms involving respiratory system and chest,4
+nature,5169,Symptoms involving respiratory system and chest— n.e.c.,4
+nature,517,Symptoms involving digestive and urinary system,3s
+nature,5170,Symptoms involving digestive and urinary system— unspecified,4
+nature,5171,Nausea and vomiting—general,4
+nature,5172,Heartburn,4
+nature,5173,Frequency of urination and polyuria,4
+nature,5174,Abdominal pain— unspecified,4
+nature,5175,Diarrhea,4
+nature,5178,Multiple symptoms involving digestive or urinary system,4
+nature,5179,Symptoms involving digestive and urinary system— n.e.c.,4
+nature,518,Multiple symptoms,3
+nature,519,Other symptoms— n.e.c.,3
+nature,52,Abnormal findings,2s
+nature,520,Abnormal findings— unspecified,3
+nature,521,Abnormal findings from examination of blood,3
+nature,522,Abnormal findings from examination of urine,3
+nature,523,Abnormal findings from other body substances,3
+nature,524,Abnormal findings from radiological and other examination of body structure,3
+nature,525,Abnormal findings from function studies,3
+nature,526,Abnormal findings from histological and immunological studies,3s
+nature,5260,Abnormal findings from histological and immunological studies— unspecified,4
+nature,5261,"Positive reaction to tuberculin skin test, without a diagnosis of TB",4
+nature,5269,Abnormal findings from histological and immunological studies— n.e.c.,4
+nature,528,Multiple abnormal findings,3
+nature,529,Other abnormal findings,3
+nature,58,"Multiple symptoms, signs, and ill-defined conditions",2
+nature,59,"Symptoms, signs, and ill-defined conditions— n.e.c.",2
+nature,6,"OTHER DISEASES, CONDITIONS, AND DISORDERS",1s
+nature,60,"Other diseases, conditions, and disorders— unspecified",2
+nature,61,Damage to prosthetic and orthopedic devices,2s
+nature,610,Damage to prosthetic and orthopedic devices— unspecified,3
+nature,611,Damage to prosthetic devices and aids,3s
+nature,6110,Damage to prosthetic devices— unspecified,4
+nature,6111,Damage to artificial limb(s),4
+nature,6112,Damage to artificial eye(s),4
+nature,6113,Damage to other devices,4
+nature,6118,Damage to multiple prosthetic devices,4
+nature,6119,Damage to prosthetic devices— n.e.c.,4
+nature,612,Damage to orthopedic devices,3s
+nature,6120,Damage to orthopedic devices— unspecified,4
+nature,6121,Damage to replaced joints,4
+nature,6122,"Damage to pins, rods, plates, and screws",4
+nature,6128,Damage to multiple orthopedic devices,4
+nature,6129,Damage to orthopedic devices— n.e.c.,4
+nature,619,Damage to medical implants— n.e.c.,3
+nature,62,Mental disorders and syndromes,2s
+nature,620,Mental disorders and syndromes— unspecified,3
+nature,621,"Anxiety, stress",3s
+nature,6210,"Anxiety, stress— unspecified",4
+nature,6211,Post-traumatic stress disorder,4
+nature,6212,Anxiety or panic— multiple episodes,4
+nature,6213,Anxiety or panic attack— single episode,4
+nature,622,Depression or depressive episode,3
+nature,629,Mental disorders and syndromes— n.e.c.,3
+nature,69,"Other diseases, conditions, and disorders— n.e.c.",2
+nature,7,EXPOSURES TO HARMFUL SUBSTANCE OR ENVIRONMENT—NO INJURY OR ILLNESS INCURRED,1
+nature,8,"MULTIPLE DISEASES, CONDITIONS, AND DISORDERS",1s
+nature,81,Traumatic injuries and mental disorders,2s
+nature,811,Traumatic sensory loss and PTSD,3
+nature,812,Gunshot wounds and PTSD,3
+nature,813,Trauma involving internal organs and major blood vessels and PTSD,3
+nature,814,Amputations and PTSD,3
+nature,815,Third degree or higher burns and PTSD,3
+nature,82,Traumatic injuries and damage to prosthetic or orthopedic devices,2
+nature,83,Traumatic injuries and infectious disease,2
+nature,990,Nature— unspecified,1
+part,1,HEAD,1s
+part,10,Head— unspecified,2
+part,11,Cranial region,2s
+part,110,Cranial region— unspecified,3
+part,111,Brain,3
+part,112,Scalp,3
+part,113,Skull,3
+part,118,Multiple cranial structures,3
+part,12,"Ear(s), facial region",2s
+part,120,Ears and facial region— unspecified,3
+part,121,Ear(s),3
+part,122,Eye(s),3
+part,123,"Nose, nasal cavity",3
+part,124,Mouth,3s
+part,1240,Mouth— unspecified,4
+part,1241,Lip(s),4
+part,1242,Tongue,4
+part,1243,Tooth (teeth),4
+part,1248,Multiple mouth locations,4
+part,1249,Other part of mouth— n.e.c.,4
+part,125,"Forehead, temple(s)",3
+part,126,Cheek(s),3
+part,127,"Jaw, chin",3
+part,128,"Multiple ear(s), facial regions",3s
+part,1281,Eye(s) and ear(s),4
+part,1282,Nose and mouth,4
+part,1289,"Other multiple ear(s), facial locations",4
+part,18,Multiple regions of the head,2
+part,19,Other part of head— n.e.c.,2
+part,2,NECK,1s
+part,21,Exterior and musculoskeletal structures of the neck,2
+part,22,Internal neck structures,2
+part,28,External and internal neck locations,2
+part,3,TRUNK,1s
+part,30,Trunk— unspecified,2
+part,31,"Chest— including ribs, internal organs",2s
+part,310,Chest— unspecified,3
+part,311,Exterior and musculoskeletal structures of the chest,3s
+part,3110,Exterior and musculoskeletal structures of the chest— unspecified,4
+part,3111,Breast(s),4
+part,3112,"Rib(s), oblique area",4
+part,3118,Multiple exterior and musculoskeletal structures of the chest,4
+part,3119,Other exterior and musculoskeletal structures of the chest— n.e.c.,4
+part,312,Internal respiratory organs,3s
+part,3120,Internal respiratory organs— unspecified,4
+part,3121,Trachea,4
+part,3122,Bronchus,4
+part,3123,"Lung(s), pleura",4
+part,3128,Multiple respiratory organs,4
+part,3129,Other internal respiratory organs— n.e.c.,4
+part,313,Internal cardiovascular structures of the chest,3s
+part,3130,Internal cardiovascular structures of the chest— unspecified,4
+part,3131,Heart,4
+part,3132,Major blood vessels of the trunk,4
+part,318,Multiple internal chest locations,3
+part,319,Other internal chest location— n.e.c.,3
+part,32,Exterior and musculoskeletal structures of the back,2s
+part,320,Exterior and musculoskeletal structures of the back— unspecified,3
+part,321,Back— thoracic region,3
+part,322,Back— lumbar region,3
+part,323,Back— sacral region,3
+part,324,Back— coccygeal region,3
+part,328,Back— multiple regions,3
+part,33,Abdomen,2s
+part,330,Abdomen— unspecified,3
+part,331,Exterior and musculoskeletal structures of the abdomen,3
+part,332,Digestive structures (except intestines),3s
+part,3320,Digestive structures— unspecified,4
+part,3321,Esophagus,4
+part,3322,Stomach organ,4
+part,3323,Liver,4
+part,3324,Pancreas,4
+part,3328,Multiple digestive structures,4
+part,3329,Other digestive structures— n.e.c.,4
+part,333,"Intestines, peritoneum",3s
+part,3330,"Intestines, peritoneum— unspecified",4
+part,3331,Peritoneum,4
+part,3332,Small intestine,4
+part,3333,"Large intestine, colon, rectum",4
+part,3338,Multiple intestinal locations,4
+part,334,Urinary organs,3s
+part,3340,Urinary organs— unspecified,4
+part,3341,Bladder,4
+part,3342,Kidney(s),4
+part,3348,Multiple urinary organs,4
+part,3349,Other urinary organs— n.e.c.,4
+part,338,Multiple internal abdominal locations,3
+part,339,Other internal abdominal location— n.e.c.,3
+part,34,Pelvic region,2s
+part,340,Pelvic region— unspecified,3
+part,341,Exterior and musculoskeletal structures of the pelvic region,3s
+part,3411,Pelvis,4
+part,3412,Buttock(s),4
+part,3413,Groin,4
+part,3419,Other exterior and musculoskeletal structures of the pelvic region— n.e.c.,4
+part,342,External genital region,3s
+part,3420,External genital region— unspecified,4
+part,3421,External male genitals,4
+part,3422,External female genitals,4
+part,3429,Other external reproductive tract structures— n.e.c.,4
+part,343,Internal reproductive tract structures,3s
+part,3430,Internal reproductive tract structures— unspecified,4
+part,3431,Prostate,4
+part,3432,Testis (testes),4
+part,3433,Ovary (ovaries),4
+part,3434,Uterus,4
+part,3438,Multiple internal reproductive tract structures,4
+part,3439,Other internal reproductive tract structures— n.e.c.,4
+part,348,Multiple pelvic region locations,3
+part,349,Other part of pelvic region— n.e.c.,3
+part,38,Multiple trunk locations,2
+part,39,Other part of trunk— n.e.c.,2
+part,4,UPPER EXTREMITIES,1s
+part,40,Upper extremities— unspecified,2
+part,41,"Shoulder(s), clavicle(s), scapula(e)",2
+part,42,Arm(s),2s
+part,420,Arm(s)— unspecified,3
+part,421,Upper arm(s),3
+part,422,Elbow(s),3
+part,423,Forearm(s),3
+part,428,Multiple arm locations,3
+part,43,Wrist(s),2
+part,44,"Hand(s), finger(s)",2s
+part,440,"Hand(s), finger(s)— unspecified",3
+part,441,"Hand(s), except finger(s)",3
+part,442,Finger(s),3s
+part,4421,"Finger or thumb tip(s), nail(s)",4
+part,4422,Thumb(s),4
+part,4428,Thumb(s) and finger(s),4
+part,4429,Other finger(s)— n.e.c.,4
+part,448,Hand(s) and finger(s),3
+part,48,Multiple upper extremities locations,2s
+part,480,Multiple upper extremities locations— unspecified,3
+part,481,Hand(s) and arms(s),3s
+part,4811,Hand(s) and elbow(s),4
+part,4819,Hand(s) and arm(s)— n.e.c.,4
+part,482,Hand(s) and wrist(s),3
+part,483,Wrist(s) and arm(s),3s
+part,4831,Wrist(s) and elbow(s),4
+part,4839,Wrist(s) and arm(s)— n.e.c.,4
+part,484,Shoulder(s) and arm(s),3
+part,485,Shoulder(s) and wrist(s),3
+part,489,Multiple upper extremities locations— n.e.c.,3
+part,49,Other upper extremities— n.e.c.,2
+part,5,LOWER EXTREMITIES,1s
+part,50,Lower extremities— unspecified,2
+part,51,Hip joint(s),2
+part,52,Leg(s),2s
+part,520,Leg(s)— unspecified,3
+part,521,Thigh(s),3
+part,522,Knee(s),3
+part,523,Lower leg(s),3
+part,528,Multiple leg locations,3s
+part,5280,Multiple leg locations— unspecified,4
+part,5281,Knee(s) and leg(s),4
+part,5289,Multiple leg locations— n.e.c.,4
+part,53,Ankle(s),2
+part,54,"Foot (feet), toe(s)",2s
+part,540,"Foot (feet), toe(s)— unspecified",3
+part,541,Foot (feet)— excluding toes,3
+part,542,"Toes(s), toenail(s)",3
+part,548,Foot (feet) and toe(s),3
+part,58,Multiple lower extremities locations,2s
+part,580,Multiple lower extremities locations— unspecified,3
+part,581,Foot (feet) and hip(s),3
+part,582,Foot (feet) and leg(s),3s
+part,5820,Foot(feet) and leg(s)— unspecified,4
+part,5821,Foot(feet) and knee(s),4
+part,5829,Foot(feet) and leg(s)— n.e.c.,4
+part,583,Foot (feet) and ankle(s),3
+part,584,Ankle(s) and hip(s),3
+part,585,Ankle(s) and leg(s),3s
+part,5850,Ankle(s) and leg(s)— unspecified,4
+part,5851,Ankle(s) and knee(s),4
+part,5859,Ankle(s) and leg(s)— n.e.c.,4
+part,586,Hip(s) and legs(s),3s
+part,5860,Hip(s) and leg(s)— unspecified,4
+part,5861,Hip(s) and knee(s),4
+part,5869,Hip(s) and leg(s)— n.e.c.,4
+part,589,Multiple lower extremities locations— n.e.c.,3
+part,59,Lower extremities— n.e.c.,2
+part,6,BODY SYSTEMS,1
+part,8,MULTIPLE BODY PARTS,1s
+part,80,Multiple body parts— unspecified,2
+part,81,Head and other part(s) of body,2s
+part,811,Head and neck,3
+part,812,Head and trunk,3
+part,813,Head and extremities,3
+part,82,Neck and other part(s) of body,2s
+part,821,Neck and back,3
+part,822,Neck and shoulder,3
+part,823,Neck and upper extremities,3
+part,83,Trunk and other part(s) of body,2s
+part,831,Back and shoulder,3
+part,832,Trunk and hip joint(s),3
+part,833,Trunk and other upper extremities,3
+part,834,Trunk and other lower extremities,3
+part,84,Upper and lower extremities,2s
+part,841,Hands and feet,3
+part,849,Upper and lower extremities— n.e.c.,3
+part,88,Other multiple parts of body,2s
+part,881,"Neck, shoulder, back",3
+part,882,"Head, neck, trunk",3
+part,883,Body systems and other part(s) of body,3
+part,888,Whole body,3
+part,899,Multiple body parts— n.e.c.,3
+part,990,Part of body— unspecified,3
+event,1,VIOLENT ACTS,1s
+event,10,Violent acts— unspecified,2
+event,11,Violent acts by other person,2s
+event,110,Violent acts by other person— unspecified,3
+event,111,Shooting by other person,3
+event,112,"Stabbing, cutting, slashing by other person",3
+event,113,"Strangulation, asphyxiation by other person",3
+event,114,"Hitting, kicking, beating by other person",3s
+event,1140,"Hitting, kicking, beating by other person— unspecified",4
+event,1141,"Hitting, kicking, beating by other person while providing protective services",4
+event,1142,"Hitting, kicking, beating by other person while providing medical or custodial care",4
+event,1149,"Hitting, kicking, beating by other person— n.e.c.",4
+event,115,"Bombing, arson by other person",3
+event,116,"Rape, sexual assault by other person",3
+event,117,"Threat, harassment by other person",3
+event,118,Multiple violent acts by other person,3
+event,119,Intentional violence by other person— n.e.c.,3
+event,12,Intentional self-harm,2s
+event,120,Intentional self-harm— unspecified,3
+event,121,Intentional self-harm— shooting,3
+event,122,"Intentional self-harm— hanging, strangulation, asphyxiation",3
+event,123,"Intentional self-harm— jump from building, structure",3
+event,124,"Intentional self-harm— cutting, stabbing",3
+event,125,"Intentional self-harm— poisoning, drug overdose",3
+event,129,Intentional self-harm— n.e.c.,3
+event,13,Witnessing a violent act,2
+event,2,TRANSPORTATION INCIDENTS,1s
+event,20,Transportation incidents— unspecified,2
+event,21,Aircraft incidents,2s
+event,210,Aircraft incidents— unspecified,3
+event,211,Non-passenger struck by aircraft,3
+event,212,Aircraft crash during takeoff or landing,3s
+event,2120,Aircraft crash during takeoff or landing— unspecified,4
+event,2121,Aircraft crash during takeoff or landing due to mechanical failure,4
+event,2122,Aircraft crash during takeoff or landing between air vehicles,4
+event,2123,"Aircraft crash during takeoff or landing into structure, object, or ground",4
+event,2129,Aircraft crash during takeoff or landing— n.e.c.,4
+event,213,"In-flight crash, collision",3s
+event,2130,In-flight crash— unspecified,4
+event,2131,In-flight crash due to mechanical failure,4
+event,2132,In-flight collision between air vehicles,4
+event,2133,Low altitude entanglement,4
+event,2139,"In-flight crash, collision into structure, object, ground— n.e.c.",4
+event,214,Incidents onboard aircraft in normal operation,3s
+event,2140,Incidents onboard aircraft in normal operation— unspecified,4
+event,2141,"Fires, explosions onboard aircraft in normal operation",4
+event,2142,"Fall, contact incident onboard aircraft in normal operation",4
+event,2143,Exposure incident onboard aircraft in normal operation,4
+event,2144,Overexertion incidents onboard aircraft in normal operation,4
+event,215,Parachuting and nonpowered aircraft incidents,3
+event,219,Other aircraft incident— n.e.c.,3
+event,22,Water vehicle incidents,2s
+event,220,Water vehicle incidents— unspecified,3
+event,221,Non-passenger struck by water vehicle,3
+event,222,Water vehicle collisions,3s
+event,2220,Water vehicle collision— unspecified,4
+event,2221,Collision between water vehicles,4
+event,2229,Collision between water vehicle and object(s)— n.e.c.,4
+event,223,Capsized or sinking water vehicle (non collision),3
+event,224,Incidents onboard water vehicle in normal operation,3s
+event,2240,Incidents onboard water vehicle in normal operation— unspecified,4
+event,2241,"Fires, explosions onboard water vehicle in normal operation",4
+event,2242,"Fall, jump from water vehicle",4
+event,2243,"Fall, jump from and struck by water vehicle",4
+event,2244,"Fall, contact incident onboard water vehicle",4
+event,2245,Exposure incident onboard water vehicle in normal operation,4
+event,2246,Overexertion incidents onboard water vehicle in normal operation,4
+event,229,Other water vehicle incident n.e.c.,3
+event,23,Rail vehicle incidents,2s
+event,230,Rail vehicle incident— unspecified,3
+event,231,Non-passenger struck by rail vehicle,3
+event,232,Rail vehicle collisions,3s
+event,2320,Rail vehicle collision— unspecified,4
+event,2321,Collision between rail vehicles,4
+event,2322,Collision between rail and roadway vehicles,4
+event,2329,Collision between rail vehicle and object(s)— n.e.c.,4
+event,233,Non-collision derailment,3
+event,234,Incidents onboard rail vehicle in normal operation,3s
+event,2340,Incident onboard rail vehicle in normal operation— unspecified,4
+event,2341,"Fire, explosion onboard rail vehicles in normal operation",4
+event,2342,"Fall, jump from rail vehicle",4
+event,2343,"Fall, jump from and struck by rail vehicle",4
+event,2344,"Fall, contact incident onboard rail vehicle in normal operation",4
+event,2345,Exposure incident onboard rail vehicle in normal operation,4
+event,2346,Overexertion incidents onboard rail vehicle in normal operation,4
+event,2349,Incident onboard rail vehicles— n.e.c.,4
+event,239,Other rail vehicle incident— n.e.c.,3
+event,24,Non-motorized transport incidents,2s
+event,240,Non-motorized transport incident— unspecified,3
+event,241,Animal transportation incidents,3s
+event,2410,Animal transportation incidents— unspecified,4
+event,2411,Animal transportation collision in roadway,4
+event,2412,Animal transportation collision in nonroadway area,4
+event,2413,"Thrown, fell, or jumped from animal transportation",4
+event,2419,Animal transportation incident— n.e.c.,4
+event,242,Pedal cycle incidents,3s
+event,2420,Pedal cycle incidents— unspecified,4
+event,2421,Pedal cycle collision in roadway,4
+event,2422,Pedal cycle collision in nonroadway area,4
+event,2423,Fall from pedal cycle,4
+event,2429,Pedal cycle incident— n.e.c.,4
+event,243,"Ski, snowboard, and sled incidents",3s
+event,2430,"Ski, snowboard, and sled incidents— unspecified",4
+event,2431,"Collision on skis, snowboard, sled",4
+event,2432,"Struck, engulfed by falling object(s) on skis, snowboard, sled",4
+event,2433,"Fall from skis, snowboard, sled",4
+event,2439,"Ski, snowboard, and sled incidents— n.e.c.",4
+event,249,Non-motorized transport incidents— n.e.c.,3
+event,25,Pedestrian incidents involving motorized land vehicles,2s
+event,250,Pedestrian incidents involving motorized land vehicles— unspecified,3s
+event,2500,Pedestrian struck by vehicle— unspecified,4
+event,2501,Pedestrian struck by vehicle or object propelled by another vehicle— location unspecified,4
+event,2502,Pedestrian struck by forward-moving vehicle— location unspecified,4
+event,2503,Pedestrian struck by vehicle backing up—location unspecified,4
+event,2509,"Pedestrian struck by vehicle, location unspecified— n.e.c.",4
+event,251,Pedestrian struck by vehicle in road work zone,3s
+event,2510,Pedestrian struck by vehicle in road work zone— unspecified,4
+event,2511,Pedestrian struck by vehicle or object propelled by another vehicle in road work zone,4
+event,2512,Pedestrian struck by forward-moving vehicle in road work zone,4
+event,2513,Pedestrian struck by vehicle backing up in road work zone,4
+event,2519,Pedestrian struck by vehicle in road work zone— n.e.c.,4
+event,252,Pedestrian struck by vehicle in roadway,3s
+event,2520,Pedestrian struck by vehicle in roadway— unspecified,4
+event,2521,Pedestrian struck by vehicle or object propelled by another vehicle in roadway,4
+event,2522,Pedestrian struck by forward-moving vehicle in roadway,4
+event,2523,Pedestrian struck by vehicle backing up in roadway,4
+event,2529,Pedestrian struck by vehicle in roadway— n.e.c.,4
+event,253,Pedestrian struck by vehicle in nonroadway area,3s
+event,2530,Pedestrian struck by vehicle in nonroadway area— unspecified,4
+event,2531,Pedestrian struck by vehicle or object propelled by another vehicle in nonroadway area,4
+event,2532,Pedestrian struck by forward-moving vehicle in nonroadway area,4
+event,2533,Pedestrian struck by vehicle backing up in nonroadway area,4
+event,2539,Pedestrian struck by vehicle in nonroadway area— n.e.c.,4
+event,259,"Pedestrian incidents involving motorized land vehicles, n.e.c.",3
+event,26,Roadway incidents involving motorized land vehicle,2s
+event,260,Roadway incidents involving motorized land vehicle— unspecified,3
+event,261,Roadway collision with other vehicle(s),3s
+event,2610,Roadway collision with other vehicle(s)— unspecified,4
+event,2611,"Roadway collision with other vehicle(s)—intersecting, turning",4
+event,2612,Roadway collision with other vehicle(s)—moving in same direction,4
+event,2613,"Roadway collision with other vehicle(s)—moving in opposite directions, oncoming",4
+event,2614,Roadway collision with other vehicle(s)—moving and standing vehicle,4
+event,2619,Roadway collision with other vehicle— n.e.c.,4
+event,262,Roadway collision with object other than vehicle,3s
+event,2620,Roadway collision with object other than vehicle— unspecified,4
+event,2621,Vehicle struck by falling or flying object(s) in roadway,4
+event,2622,Collision with moving object or animal in roadway,4
+event,2623,Collision with stationary object in roadway,4
+event,2624,Collision with object or animal on side of roadway,4
+event,2629,Ran off roadway and struck object— n.e.c.,4
+event,263,Roadway noncollision incident,3s
+event,2630,Roadway noncollision incident— unspecified,4
+event,2631,Roadway noncollision— vehicle overturn,4
+event,2632,Roadway noncollision— fall or jump from and struck by moving vehicle,4
+event,2633,Roadway noncollision— fall or jump from moving vehicle,4
+event,2634,Roadway noncollision— fall on moving vehicle,4
+event,2635,"Roadway noncollision— struck by shifting, dislodged load in transport",4
+event,2636,Roadway noncollision— jack-knifed or ran off road,4
+event,2639,Roadway noncollision incident— n.e.c.,4
+event,269,Roadway incident involving motorized land vehicle— n.e.c.,3
+event,27,Nonroadway incidents involving motorized land vehicles,2s
+event,270,Nonroadway incident involving motorized land vehicle— unspecified,3
+event,271,Nonroadway collision with other vehicle(s),3s
+event,2710,Nonroadway collision with other vehicle(s)— unspecified,4
+event,2711,"Nonroadway collision with other vehicle(s)—intersecting, turning",4
+event,2712,Nonroadway collision with other vehicle(s)—moving in same direction,4
+event,2713,"Nonroadway collision with other vehicle(s)—moving in opposite directions, oncoming",4
+event,2714,Nonroadway collision with other vehicle(s)—moving and standing vehicle,4
+event,2719,Nonroadway collision with other vehicle(s)— n.e.c.,4
+event,272,Nonroadway collision with object other than vehicle,3s
+event,2720,Nonroadway collision with object or animal in path of travel— unspecified,4
+event,2721,"Vehicle struck by falling or flying object(s), nonroadway",4
+event,2722,"Collision with moving object or animal, nonroadway",4
+event,2723,"Collision with stationary object, nonroadway",4
+event,2729,Nonroadway collision with object or animal — n.e.c.,4
+event,273,Nonroadway noncollision incident,3s
+event,2730,Nonroadway noncollision incident— unspecified,4
+event,2731,Nonroadway noncollision— vehicle overturn,4
+event,2732,Nonroadway noncollision— fall or jump from and struck by moving vehicle,4
+event,2733,Nonroadway noncollision— fall or jump from moving vehicle,4
+event,2734,Nonroadway noncollision— fall on moving vehicle,4
+event,2735,"Nonroadway noncollision— Struck by shifting, dislodged load in transport",4
+event,2736,Nonroadway noncollision— jack-knifed or ran off driving surface,4
+event,2739,Nonroadway noncollision incident— n.e.c.,4
+event,279,Nonroadway incident involving motorized land vehicle— n.e.c.,3
+event,29,Transportation incidents— n.e.c.,2
+event,3,EXPLOSIONS AND FIRES,1s
+event,30,Explosions and fires— unspecified,2
+event,31,Explosions,2s
+event,310,Explosion— unspecified,3
+event,311,Intentionally set explosion,3
+event,312,Dust explosion,3
+event,313,"Explosion of pressure vessel, piping, or tire",3
+event,314,"Explosion of nonpressurized vapors, gases, or liquids",3
+event,319,Explosion— n.e.c.,3
+event,32,Fires (without explosions),2s
+event,320,Fire— unspecified,3
+event,321,Forest fire or wildfire,3
+event,322,Structural fire with collapse,3
+event,323,Structural fire without collapse,3
+event,324,Vehicle or machinery fire,3
+event,325,"Fire— small-scale, limited",3
+event,326,Ignition of clothing,3
+event,327,Flash fire,3
+event,329,Nonstructural fire— n.e.c.,3
+event,4,"FALLS, SLIPS, TRIPS",1s
+event,40,"Fall, slip, trip— unspecified",2
+event,41,Fall to lower level,2s
+event,410,Fall to lower level— unspecified,3
+event,411,Fall to lower level from collapsing structure or equipment,3s
+event,4110,Fall to lower level from collapsing structure or equipment— unspecified,4
+event,4111,Fall to lower level from collapsing structure or equipment— less than 6 feet,4
+event,4112,Fall to lower level from collapsing structure or equipment— 6 to 30 feet,4
+event,4113,Fall to lower level from collapsing structure or equipment— more than 30 feet,4
+event,412,Fall to lower level resulting from exposure or contact,3s
+event,4120,Fall to lower level resulting from exposure or contact— unspecified,4
+event,4121,Fall to lower level resulting from exposure or contact— less than 6 feet,4
+event,4122,Fall to lower level resulting from exposure or contact— 6 to 30 feet,4
+event,4123,Fall to lower level resulting from exposure or contact— more than 30 feet,4
+event,413,Fall to lower level resulting in exposure or contact,3s
+event,4130,Fall to lower level resulting in exposure or contact— unspecified,4
+event,4131,Fall to lower level resulting in exposure or contact— less than 6 feet,4
+event,4132,Fall to lower level resulting in exposure or contact— 6 to 30 feet,4
+event,4133,Fall to lower level resulting in exposure or contact— more than 30 feet,4
+event,414,Other fall to lower level,3s
+event,4140,Other fall to lower level— unspecified,4
+event,4141,Other fall to lower level— less than 6 feet,4
+event,4142,Other fall to lower level— 6 to 30 feet,4
+event,4143,Other fall to lower level— more than 30 feet,4
+event,419,Fall to lower level— caught self or curtailed,3
+event,42,"Slip, trip, stumble while stepping between levels",2
+event,43,"Slip, trip, stumble or fall on same level",2s
+event,430,"Slip, trip, stumble or fall on same level— fall unspecified",3
+event,431,Fall on same level,3s
+event,4310,Fall on same level— unspecified,4
+event,4311,Fall on same level resulting in exposure or contact,4
+event,4312,Fall on same level due to slip or trip,4
+event,4313,Fall while sitting,4
+event,4314,Fall on same level and catch oneself,4
+event,4319,Fall on same level— n.e.c.,4
+event,432,"Slip, trip, stumble on same level— without fall",3
+event,49,"Fall, slip, trip— n.e.c.",2
+event,5,"EXPOSURE TO HARMFUL SUBSTANCES, ENVIRONMENTS",1s
+event,50,"Exposure to harmful substances, environments— unspecified",2
+event,51,Exposure to electricity,2s
+event,510,Exposure to electricity— unspecified,3
+event,511,Direct exposure to electricity,3s
+event,5110,Direct exposure to electricity— unspecified,4
+event,5111,Direct exposure to electricity— 220 volts or less,4
+event,5112,Direct exposure to electricity— greater than 220 volts,4
+event,512,Indirect exposure to electricity,3s
+event,5120,Indirect exposure to electricity— unspecified,4
+event,5121,Indirect exposure to electricity— 220 volts or less,4
+event,5122,Indirect exposure to electricity— greater than 220 volts,4
+event,513,Exposure to electric arc,3
+event,52,Exposure to radiation and noise,2s
+event,520,Exposure to radiation and noise— unspecified,3
+event,521,Exposure to particle radiation,3s
+event,5210,Exposure to particle radiation— duration unspecified,4
+event,5211,Exposure to particle radiation— single episode or single shift,4
+event,5212,Exposure to particle radiation— repeated or prolonged,4
+event,522,"Exposure to light, other radiation",3s
+event,5220,"Exposure to light, other radiation— duration unspecified",4
+event,5221,"Exposure to light, other radiation— single episode or single shift",4
+event,5222,"Exposure to light, other radiation— repeated or prolonged",4
+event,523,Exposure to noise,3s
+event,5230,Exposure to noise— duration unspecified,4
+event,5231,Exposure to noise— single episode or single shift,4
+event,5232,Exposure to noise— repeated or prolonged,4
+event,53,Exposure to temperature extremes,2s
+event,530,Exposure to temperature extremes— unspecified,3
+event,531,Exposure to environmental heat,3s
+event,5310,Exposure to environmental heat— unspecified,4
+event,5311,Exposure to environmental heat— indoor,4
+event,5312,Exposure to environmental heat— outdoor,4
+event,532,Exposure to environmental cold,3s
+event,5320,Exposure to environmental cold— unspecified,4
+event,5321,Exposure to environmental cold— indoor,4
+event,5322,Exposure to environmental cold— outdoor,4
+event,533,Contact with hot objects or substances,3
+event,534,Contact with cold objects or substances,3
+event,54,Exposure to air and water pressure change,2s
+event,540,Exposure to air and water pressure change— unspecified,3
+event,541,Exposure to change in water pressure,3
+event,542,Exposure to change in air pressure,3
+event,55,Exposure to harmful substances,2s
+event,550,Exposure to harmful substances— unspecified,3
+event,551,"Drug, alcohol overdose",3
+event,552,Reaction to prescribed medication or vaccines,3
+event,553,Inhalation of harmful substance,3s
+event,5530,Inhalation of harmful substance— unspecified,4
+event,5531,Inhalation of harmful substance— single episode or single shift,4
+event,5532,Inhalation of harmful substance— repeated or prolonged,4
+event,554,Ingestion of harmful substance,3
+event,555,Exposure to harmful substance through exposed tissue,3s
+event,5550,Exposure to harmful substance through exposed tissue— unspecified,4
+event,5551,Unintentional needlestick or sharps injury,4
+event,5552,Exposure through wound or broken skin,4
+event,5553,Exposure through intact tissue,4
+event,5558,Multiple types of exposure through exposed tissue,4
+event,5559,Exposure to harmful substance through exposed tissue— n.e.c.,4
+event,558,Exposure to harmful substance—multiple routes of exposure,3
+event,559,Exposure to other harmful substances— n.e.c.,3
+event,56,Exposure to oxygen deficiency,2s
+event,560,Exposure to oxygen deficiency— unspecified,3
+event,561,"Drowning, submersion without other event",3
+event,562,Choking on object or substance,3
+event,563,Oxygen displacement,3
+event,569,Exposure to oxygen deficiency— n.e.c.,3
+event,57,Exposure to stressful environment without other event,2s
+event,570,Exposure to stressful environment without other event— duration unspecified,3
+event,571,Exposure to stressful environment— prolonged,3
+event,572,Exposure to stressful environment— single episode,3
+event,59,Exposure to harmful substances or environments— n.e.c.,2
+event,6,CONTACT INCIDENTS,1s
+event,60,Contact incidents— unspecified,2
+event,61,"Contact with other person, nonviolent or intent unknown",2s
+event,610,"Contact with other person, nonviolent or intent unknown— unspecified",3
+event,611,"Contact with other person, equipment during sports or physical training",3
+event,612,Contact with other person while providing medical or custodial care,3
+event,619,"Contact with other person, nonviolent or intent unknown— n.e.c.",3
+event,62,Contact with animals,2s
+event,620,Contact with animals— unspecified,3
+event,621,Bitten or stung by animal,3s
+event,6210,Bitten or stung by animal— unspecified,4
+event,6211,"Bite or sting— insects, ""bugs""",4
+event,6212,"Venomous animal bite— except ""bugs""",4
+event,6213,"Non-venomous animal bites— except ""bugs""",4
+event,622,Struck by animal,3s
+event,6220,Struck by animal— unspecified,4
+event,6221,"Gored, rammed by animal",4
+event,6222,"Stepped on, kicked, trampled by animal",4
+event,6223,"Mauled, clawed, scratched by animal",4
+event,6229,Struck by animal— n.e.c.,4
+event,628,Multiple types of contact with animals,3
+event,629,Contact with animals— n.e.c.,3
+event,63,"Collapse, engulfment",2s
+event,630,"Collapse, engulfment— unspecified",3
+event,631,"Collapse, engulfment— closed mine or tunnel",3
+event,632,"Collapse, engulfment— open trench or excavation",3
+event,633,"Collapse, engulfment— loose materials or liquids",3
+event,634,"Collapse, engulfment— building or structure",3
+event,639,"Collapse, engulfment— n.e.c.",3
+event,64,"Struck by propelled, falling, or suspended object",2s
+event,640,"Struck by propelled, falling, or suspended object— unspecified",3
+event,641,Gun discharge— accidental or intent unknown,3
+event,642,Struck by propelled object or substance,3s
+event,6420,Struck by propelled object or substance— unspecified,4
+event,6421,Struck by discharged object or substance,4
+event,6422,Struck by dislodged or detached object(s),4
+event,6429,Struck by other propelled object or substance— n.e.c.,4
+event,643,Struck by falling object,3s
+event,6430,Struck by falling object— unspecified,4
+event,6431,Struck by object dropped by person,4
+event,6432,Struck by object tipping over,4
+event,6433,"Struck by falling part of vehicle or machine, still attached",4
+event,6439,Struck by other falling object— n.e.c.,4
+event,644,Struck by suspended or swinging object,3s
+event,6440,Struck by suspended or swinging objects— unspecified,4
+event,6441,"Struck by door, gate, window",4
+event,6449,Struck by suspended or swinging objects— n.e.c.,4
+event,649,"Struck by propelled, falling, or suspended object— n.e.c.",3
+event,65,"Struck, caught, or compressed by running powered equipment",2s
+event,650,Struck by running powered equipment— unspecified,3
+event,651,"Struck by running powered equipment— irregular movement, kick back",3
+event,652,"Struck by running powered equipment— during maintenance, cleaning, testing",3
+event,653,"Caught, entangled in running powered equipment— normal operation",3
+event,654,Compressed between running equipment and other object(s),3
+event,655,Struck by rolling powered vehicle or machinery,3
+event,656,"Jarred, vibrated by running powered equipment",3
+event,659,Struck by running powered equipment— n.e.c.,3
+event,66,Contact with non-running objects or equipment,2s
+event,660,Contact with non-running objects or equipment— unspecified,3
+event,661,Injured by object handled by person,3s
+event,6610,Injured by object handled by person— unspecified,4
+event,6611,Injured by object held or wielded by person,4
+event,6612,Injured by object pushed or pulled by person,4
+event,6619,Injured by object handled by person— n.e.c.,4
+event,662,Entangled in non-running object,3
+event,663,"Struck by rolling, sliding, or shifting objects—non-running",3
+event,664,Caught or wedged between objects— nonrunning,3
+event,665,Struck against stationary object,3s
+event,6650,Struck against stationary object— unspecified,4
+event,6651,Stepped or knelt on object,4
+event,6652,Walked or ran into stationary object,4
+event,6653,"Struck against stationary object while rising, lowering",4
+event,6659,Struck against stationary object— n.e.c.,4
+event,666,Rubbed or abraded by non-running object,3
+event,669,Other contact with non-running objects or equipment— n.e.c.,3
+event,69,Contact— n.e.c.,2
+event,7,"OVEREXERTION, REPETITIVE MOTION, AND BODILY CONDITIONS",1s
+event,70,"Overexertion, repetitive motion and bodily condition— unspecified",2
+event,71,Overexertion while moving or manipulating external object(s),2s
+event,710,Overexertion while moving or manipulating external object(s)— unspecified,3
+event,711,Overexertion while providing medical or custodial care,3
+event,712,"Overexertion while wielding, manipulating tools, object(s)",3
+event,713,Overexertion while catching or throwing object(s),3
+event,714,Overexertion while materials moving by hand,3
+event,718,Multiple types of overexertion while moving or manipulating external object(s),3
+event,719,Overexertion while moving or manipulating external object(s)— n.e.c.,3
+event,72,Repetitive microtasks,2s
+event,720,Repetitive microtasks— unspecified,3
+event,721,"Repetitive microtasks involving computers, electronics",3
+event,722,"Repetitive use of tools, instruments",3
+event,728,Multiple types of repetitive microtasks,3
+event,729,Repetitive microtasks— n.e.c.,3
+event,73,Bodily position and motion,2s
+event,730,Bodily position and motion— unspecified,3
+event,731,Climbing or stepping— up or down,3
+event,732,"Kneeling, crawling",3
+event,733,"Twisting, reaching, bending",3
+event,734,"Standing up, sitting down, laying down",3
+event,735,"Running, without other incident",3
+event,736,"Walking, without other incident",3
+event,737,Sustained bodily position,3
+event,738,Multiple types of bodily position and motion,3
+event,739,Bodily position and motion— n.e.c.,3
+event,74,Bodily conditions,2
+event,78,"Multiple types of overexertions, bodily motion and position",2
+event,990,Event or exposure— unspecified,3
+source,1,CHEMICALS AND HAZARDOUS MATERIALS,1s
+source,10,Chemicals and hazardous materials— unspecified,2
+source,11,Explosives,2s
+source,110,Explosives— unspecified,3
+source,111,Explosives with mass explosion hazard,3s
+source,1110,Explosives with mass explosion hazard— unspecified,4
+source,1111,Nitroglycerin,4
+source,1112,Dynamite,4
+source,1113,TNT,4
+source,1114,Gunpowder,4
+source,1115,Ammonium nitrate-based explosives (ANFO),4
+source,1116,Nitroamines,4
+source,1117,Non-nitrogenous explosives,4
+source,1119,Explosives with mass explosion hazard— n.e.c.,4
+source,112,Sensitive explosives without mass explosion hazard,3s
+source,1120,Sensitive explosives without mass explosion hazard— unspecified,4
+source,1121,Detonating fuses,4
+source,1122,Fireworks,4
+source,1123,Rocket propellant,4
+source,1129,Sensitive explosives without mass explosion hazard— n.e.c.,4
+source,113,Insensitive explosives,3s
+source,1130,Insensitive explosives— unspecified,4
+source,1131,Triamino-Trinitrobenzene (TATB),4
+source,1132,Blasting agents,4
+source,1139,Insensitive explosives— n.e.c.,4
+source,118,Multiple explosives,3
+source,119,Explosives— n.e.c.,3
+source,12,Gases,2s
+source,120,Gases— unspecified,3
+source,121,Flammable Gases,3s
+source,1210,Flammable gas— unspecified,4
+source,1211,Methane— except sewer gas,4
+source,1212,Propane,4
+source,1213,Other hydrocarbon gas,4
+source,1214,Carbon monoxide,4
+source,1215,Hydrogen sulfide,4
+source,1216,Hydrogen— elemental,4
+source,1219,Flammable gas— n.e.c.,4
+source,122,"Non-Flammable, non-toxic gases",3s
+source,1220,"Non-Flammable, non-toxic gases— unspecified",4
+source,1221,"Ammonia, ammonium compounds",4
+source,1222,Carbon dioxide,4
+source,1223,Nitrogen— elemental,4
+source,1224,Oxygen— elemental,4
+source,1225,Noble gases,4
+source,1229,"Non-Flammable, non-toxic gases— n.e.c.",4
+source,123,Toxic or poisonous gases,3s
+source,1230,Toxic or poisonous gases— unspecified,4
+source,1231,Chlorine— elemental,4
+source,1232,Fluorine— elemental,4
+source,1233,Sulphur dioxide,4
+source,1234,Phosgene,4
+source,1235,Phosphine,4
+source,1236,Hydrogen cyanide,4
+source,1237,Nitrogen oxides,4
+source,1239,Toxic or poisonous gases— n.e.c.,4
+source,128,Compound air contaminants,3s
+source,1280,Compound air contaminants— unspecified,4
+source,1281,Tobacco smoke,4
+source,1282,Welding and industrial fumes,4
+source,1283,"Other smoke, fire gases",4
+source,1284,Sewer and waste gas,4
+source,1285,Mine gas,4
+source,1286,"Smog, poor outdoor air quality",4
+source,1287,Other poor indoor air quality,4
+source,1289,Compound air contaminants— n.e.c.,4
+source,129,Gases— n.e.c.,3
+source,13,Flammable and combustible liquids and solids,2s
+source,130,Flammable and combustible liquids and solids— unspecified,3
+source,131,Alcohols— except ingested,3s
+source,1310,Alcohols— except ingested— unspecified,4
+source,1311,Antifreeze,4
+source,1312,"Ethanol, methanol, monohydric alcohols",4
+source,1313,Polyhydric alcohols,4
+source,1318,Multiple alcohols— except injected,4
+source,1319,Alcohols— except ingested— n.e.c.,4
+source,132,Aldehydes,3s
+source,1320,Aldehydes— unspecified,4
+source,1321,Formaldehyde,4
+source,1322,Glutaraldehyde,4
+source,1328,Multiple aldehydes,4
+source,1329,Aldehydes— n.e.c.,4
+source,133,Aromatics,3s
+source,1330,Aromatics— unspecified,4
+source,1331,Benzene,4
+source,1332,Hydroquinone,4
+source,1333,Toluene,4
+source,1334,Xylene,4
+source,1335,Phenol,4
+source,1336,Styrene,4
+source,1338,Multiple aromatics,4
+source,1339,Aromatics— n.e.c.,4
+source,134,Ketones,3s
+source,1340,Ketones— unspecified,4
+source,1341,Acetone,4
+source,1342,Diacetyl,4
+source,1343,Methyl ethyl ketone,4
+source,1344,Methyl n-butyl ketone,4
+source,1348,Multiple Ketones,4
+source,1349,Ketones— n.e.c.,4
+source,135,Petroleum and coal products,3s
+source,1350,Petroleum and coal products— unspecified,4
+source,1351,Unprocessed petroleum,4
+source,1352,Petroleum-based fuels,4
+source,1353,"Naphtha, naphtha-based solvents",4
+source,1354,Coal,4
+source,1355,Petroleum coke,4
+source,1358,Multiple petroleum and coal products,4
+source,1359,Petroleum and coal products— n.e.c.,4
+source,136,Flammable solids,3s
+source,1360,Flammable solids— unspecified,4
+source,1361,Nitrocellulose,4
+source,1362,Sulphur— elemental,4
+source,1363,Charcoal,4
+source,1364,Phosphorus— elemental,4
+source,1365,Alkali metals,4
+source,1366,Alkaline earth metals,4
+source,1367,Calcium carbide,4
+source,1368,Multiple flammable solids,4
+source,1369,Flammable solids— n.e.c.,4
+source,138,Multiple flammable and combustible liquids and solids,3
+source,139,Flammable and combustible liquids and solids— n.e.c.,3
+source,14,Nonflammable Liquids and Solids,2s
+source,140,Nonflammable Liquids and Solids— unspecified,3
+source,141,Oxidizing substances and organic peroxides,3s
+source,1410,Oxidizing substances and organic peroxides— unspecified,4
+source,1411,Ammonium nitrate— pure,4
+source,1412,Calcium hypochlorite,4
+source,1413,Hydrogen peroxide,4
+source,1414,Potassium permanganate,4
+source,1415,Potassium bromate,4
+source,1416,Benzoyl peroxide,4
+source,1417,Cumene hydroperoxide,4
+source,1418,Multiple oxidizing substances and organic peroxides,4
+source,1419,Oxidizing substances and organic peroxides— n.e.c.,4
+source,142,Toxic metallic substances,3s
+source,1420,Toxic metallic substances— unspecified,4
+source,1421,Arsenic compounds,4
+source,1422,Cadmium compounds,4
+source,1423,Lead compounds,4
+source,1424,Mercury compounds,4
+source,1428,Multiple toxic metallic substances,4
+source,1429,Toxic metallic substances— n.e.c.,4
+source,143,Toxic non-metallic compounds,3s
+source,1430,Toxic non-metallic compounds— unspecified,4
+source,1431,Dichloromethane,4
+source,1432,Perchloroethylene,4
+source,1433,Trichloroethylene,4
+source,1434,Other chlorine compounds,4
+source,1435,Cyanide compounds,4
+source,1436,Acrylamide,4
+source,1438,Multiple toxic non-metallic compounds,4
+source,1439,Toxic non-metallic compounds— n.e.c.,4
+source,144,Radioactive materials,3s
+source,1440,Radioactive materials— unspecified,4
+source,1441,Plutonium,4
+source,1442,Radium,4
+source,1443,Uranium,4
+source,1449,Radioactive materials— n.e.c.,4
+source,145,Corrosive acids,3s
+source,1450,Corrosive acids— unspecified,4
+source,1451,"Carboxylic acids, acetic acid",4
+source,1452,Dicarboxylic acids,4
+source,1453,Hydrofluoric acid,4
+source,1454,Hydrochloric acid,4
+source,1455,Nitric acid,4
+source,1456,Sulfuric acid,4
+source,1458,Multiple corrosive acids,4
+source,1459,Corrosive acids— n.e.c.,4
+source,146,Corrosive bases,3s
+source,1460,Corrosive bases— unspecified,4
+source,1461,"Lye, alkali metal hydroxides",4
+source,1462,Alkali metal carbonates and bicarbonates,4
+source,1463,"Bleach, hypochlorites",4
+source,1464,"Lime, calcium oxide",4
+source,1468,Multiple corrosive bases,4
+source,1469,Corrosive bases— n.e.c.,4
+source,148,Multiple nonflammable liquids and solids,3
+source,149,Nonflammable liquids and solids— n.e.c.,3
+source,15,"Drugs, medications",2s
+source,150,"Drugs, medications— unspecified",3
+source,151,Opioids,3s
+source,1510,Opioids— unspecified,4
+source,1511,Heroin,4
+source,1512,"Fentanyl, fentanyl analogues",4
+source,1513,"Morphine, codeine",4
+source,1514,"Hydrocodone, oxycodone",4
+source,1515,"Hydromorphone, oxymorphone",4
+source,1516,Kratom,4
+source,1517,Opioid addiction treatment drugs,4
+source,1518,Multiple opioids,4
+source,1519,Opioids— n.e.c.,4
+source,152,CNS Stimulants,3s
+source,1520,Stimulants— unspecified,4
+source,1521,Cocaine,4
+source,1522,"Amphetamine, methamphetamine",4
+source,1523,"Cathinone, khat",4
+source,1528,Multiple Stimulants,4
+source,1529,Stimulants— n.e.c.,4
+source,153,CNS Depressants— except opioids,3s
+source,1530,Depressants— except opioids— unspecified,4
+source,1531,Alcohol— ingested,4
+source,1532,Barbiturates,4
+source,1533,Benzodiazepines,4
+source,1534,Anticonvulsants,4
+source,1535,"Antidepressants, antianxiety",4
+source,1536,Antipsychotics,4
+source,1538,Multiple depressants— except opioids,4
+source,1539,Depressants— except opioids— n.e.c.,4
+source,154,Hallucinogens,3s
+source,1540,Hallucinogens— unspecified,4
+source,1541,Antihistamine deliriants,4
+source,1542,"LSD, Ergoline derivatives",4
+source,1543,"Mescaline, peyote",4
+source,1544,"MDMA, Psychedelic stimulants",4
+source,1545,"Psilocin, psilocybin",4
+source,1546,Ketamine,4
+source,1548,Multiple Hallucinogens— except dissociatives,4
+source,1549,Hallucinogens— n.e.c.,4
+source,156,"Cannabis, cannabinoids",3
+source,157,Non-central nervous system (CNS) medications and vaccines,3s
+source,1570,Non-CNS medications— unspecified,4
+source,1571,Vaccines,4
+source,1572,Non-CNS medications— prescriptions,4
+source,1573,Non-CNS medications— over-the-counter,4
+source,1578,Multiple non-CNS medications,4
+source,1579,Non-CNS medications— n.e.c.,4
+source,158,"Multiple drugs, medications",3s
+source,1580,"Multiple drugs, medications— unspecified",4
+source,1581,Opioids and other depressants,4
+source,1582,Opioids and stimulants,4
+source,1583,"Opioids and other drugs— except depressants, stimulants",4
+source,1584,Depressants and stimulants,4
+source,1589,"Multiple drugs, medications— n.e.c.",4
+source,159,"Drugs, medications— n.e.c.",3
+source,16,General chemical products,2s
+source,160,General chemical products— unspecified,3
+source,161,Pesticides and other agricultural chemicals,3s
+source,1610,Pesticides and other agricultural chemicals— unspecified,4
+source,1611,"Fertilizers, plant food",4
+source,1612,Fumigants,4
+source,1613,Fungicides,4
+source,1614,Herbicides,4
+source,1615,Insecticides,4
+source,1616,Rodenticides,4
+source,1618,Multiple agricultural chemicals,4
+source,1619,Pesticides and other agricultural chemicals— n.e.c.,4
+source,162,Cleaning and polishing agents,3s
+source,1620,Cleaning and polishing agents— unspecified,4
+source,1621,Drain and oven cleaners,4
+source,1622,Solvents and degreasers— except naphtha based,4
+source,1623,"Disinfectants, detergents, soap products",4
+source,1624,Wax,4
+source,1628,Multiple cleaning and polishing agents,4
+source,1629,Cleaning and polishing agents— n.e.c.,4
+source,163,Refrigerant and cryogenic substances,3s
+source,1630,Refrigerant and cryogenic substances— unspecified,4
+source,1631,Liquid helium,4
+source,1632,Liquid nitrogen,4
+source,1633,Dry ice,4
+source,1634,Hydrofluorocarbons,4
+source,1638,Multiple refrigerant and cryogenic substances,4
+source,1639,Refrigerant and cryogenic substances— n.e.c.,4
+source,164,Miscellaneous chemical products,3s
+source,1641,"Cosmetics, beauty products",4
+source,1642,Lubricating fluids,4
+source,1643,Aerosols and sprays,4
+source,1644,Latex,4
+source,1645,Inks and dyes,4
+source,168,Multiple general chemical products,3
+source,169,General chemical products— n.e.c.,3
+source,18,Multiple chemicals and hazardous materials,2
+source,19,"Chemicals, hazardous materials— n.e.c.",2
+source,2,"CONTAINERS, FURNITURE, FIXTURES",1s
+source,20,"Containers, furniture, fixtures— unspecified",2
+source,21,Containers,2s
+source,210,Containers— unspecified,3
+source,211,Nonpressurized containers,3s
+source,2110,Nonpressurized containers— unspecified,4
+source,2111,"Bags, sacks",4
+source,2112,"Boxes, crates, cartons",4
+source,2113,"Buckets, baskets, pails",4
+source,2114,"Barrels, drums, cans— nonpressurized",4
+source,2115,"Tanks, bins, vats— except confined space",4
+source,2116,Hoppers— except confined space,4
+source,2117,Shipping containers,4
+source,2119,Nonpressurized containers— n.e.c.,4
+source,212,Pressurized containers,3s
+source,2120,Pressurized containers— unspecified,4
+source,2121,Boilers,4
+source,2122,Hoses— except machine,4
+source,2123,Propane tanks and cylinders,4
+source,2124,Oxygen tanks and cylinders,4
+source,2125,Pressurized kegs and cans,4
+source,2129,Pressurized containers— n.e.c.,4
+source,213,"Wheeled containers, material moving equipment",3s
+source,2130,"Wheeled containers, material moving equipment— unspecified",4
+source,2131,Wheelbarrows,4
+source,2132,Non-riding pallet jack,4
+source,2133,"Utility carts, hand trucks, dollies",4
+source,2139,"Wheeled containers, material moving equipment— n.e.c.",4
+source,214,Variable restraint containers—variable restraint,3s
+source,2140,Variable restraint containers— unspecified,4
+source,2141,"Bundles, bales",4
+source,2142,"Packages, parcels",4
+source,2143,"Reels, rolls, spools, coils",4
+source,2149,Variable restraint containers— n.e.c.,4
+source,215,"Dishes, small receptacles",3s
+source,2150,"Dishes, small receptacles— unspecified",4
+source,2151,"Pots, pans, trays",4
+source,2152,"Bottles, jugs, flasks",4
+source,2153,"Cans, tins, jars",4
+source,2159,"Dishes, small receptacles— n.e.c.",4
+source,216,"Luggage, handbags",3s
+source,2160,"Luggage, handbags— unspecified",4
+source,2161,"Tote bags, shoulder bags",4
+source,2162,Back packs,4
+source,2163,"Luggage, suitcases",4
+source,2164,Utility and tool belts,4
+source,2168,Multiple luggage and handbags,4
+source,2169,"Luggage, handbags— n.e.c.",4
+source,217,"Skids, pallets",3
+source,218,Multiple types of containers,3
+source,219,Containers— n.e.c.,3
+source,22,Furniture and fixtures,2s
+source,220,Furniture and fixtures— unspecified,3
+source,221,"Cases, cabinets, racks, shelves",3s
+source,2210,"Cases, cabinets, racks, shelves— unspecified",4
+source,2211,"Cabinets, cases, dressers",4
+source,2212,"Shelves, shelving, racks",4
+source,2213,Partitions,4
+source,2214,Cages,4
+source,2218,"Multiple cases, cabinets, racks, shelves",4
+source,2219,"Cases, cabinets, racks, shelves— n.e.c.",4
+source,222,Furniture,3s
+source,2220,Furniture— unspecified,4
+source,2221,"Beds, mattresses— except medical",4
+source,2222,"Chairs, single-person seating",4
+source,2223,"Sofas, multi-person seating",4
+source,2224,"Tables, desks, work surfaces",4
+source,2228,Multiple types of furniture,4
+source,2229,Furniture— n.e.c.,4
+source,223,"Floor, wall, and window coverings",3s
+source,2230,"Floor, wall, and window coverings— unspecified",4
+source,2231,Movable floor coverings— not attached,4
+source,2232,Window and wall coverings,4
+source,2238,"Multiple floor, wall, and window coverings",4
+source,2239,"Floor, wall, and window coverings— n.e.c.",4
+source,224,Lighting fixtures and equipment,3s
+source,2240,Lighting equipment— unspecified,4
+source,2241,"Lamps, light fixtures",4
+source,2242,Signs— electrical and lighted,4
+source,2243,Light bulbs,4
+source,2248,Multiple lighting fixtures and equipment,4
+source,2249,Lighting equipment— n.e.c.,4
+source,225,Plumbing fixtures,3s
+source,2250,Plumbing fixtures— unspecified,4
+source,2251,"Bathtubs, hot tubs, showers",4
+source,2252,Sinks,4
+source,2253,"Toilets, urinals",4
+source,2258,Multiple plumbing fixtures,4
+source,2259,Plumbing fixtures— n.e.c.,4
+source,226,"Blackboards, bulletin boards, mirrors, signs",3s
+source,2260,"Blackboards, bulletin boards, mirrors, signs— unspecified",4
+source,2261,"Blackboards, bulletin boards, mirrors, signs—mounted",4
+source,2262,"Blackboards, bulletin boards, mirrors, signs— nonmounted",4
+source,229,Furniture and fixtures— n.e.c.,3
+source,29,"Containers, furniture, fixtures— n.e.c.",2
+source,3,MACHINERY,1s
+source,30,Machinery— unspecified,2
+source,31,Agricultural and garden machinery,2s
+source,310,Agricultural and garden machinery— unspecified,3
+source,311,Harvesting and threshing machinery,3s
+source,3110,Harvesting and threshing machinery— unspecified,4
+source,3111,Harvesting and threshing machinery— corn,4
+source,3112,Harvesting and threshing machinery— small grain,4
+source,3113,Harvesting machinery— cotton,4
+source,3114,Harvesting machinery— forage,4
+source,3116,Harvesting machinery— specialty crop,4
+source,3117,"Balers, baggers",4
+source,3119,Harvesting and threshing machinery— n.e.c.,4
+source,312,Mowing and brush removal machinery,3s
+source,3120,Mowing and brush removal machinery— unspecified,4
+source,3121,"Agricultural rotary mower, flail mower",4
+source,3122,Lawn mower— riding,4
+source,3123,Lawn mower— walk behind,4
+source,3129,Mowing machinery— n.e.c.,4
+source,313,"Tillage, planting, and cultivating machinery",3s
+source,3130,"Tillage, planting, and cultivating machinery— unspecified",4
+source,3131,Plowing and tilling machinery,4
+source,3132,Planting machinery,4
+source,3139,"Tillage, planting, and cultivating machinery— n.e.c.",4
+source,314,"Irrigation, chemical, and fertilizer application machinery",3s
+source,3140,"Irrigation, chemical, and fertilizer application machinery— unspecified",4
+source,3141,Irrigation systems,4
+source,3142,"Spreaders, sprayers, application equipment",4
+source,3149,"Irrigation, chemical, and fertilizer application— n.e.c.",4
+source,315,"Grain, forage, feed processing and handling machinery",3s
+source,3150,"Grain, forage, feed processing and handling machinery— unspecified",4
+source,3151,"Feed grinders, crushers, mixers—agricultural",4
+source,3152,Bale and feed processing machinery,4
+source,3153,Bale and product transport equipment,4
+source,3159,"Grain, forage, feed processing and handling machinery— n.e.c.",4
+source,316,Livestock-related machinery,3s
+source,3160,Livestock-related machinery— unspecified,4
+source,3161,Cattle squeeze chute,4
+source,3162,Powered cattle gates,4
+source,3163,Powered feeding equipment,4
+source,3164,"Manure cleaning, scraping equipment",4
+source,3165,Milking parlor equipment,4
+source,3166,Animal slaughtering equipment,4
+source,3169,Livestock-related machinery— n.e.c.,4
+source,319,Other agricultural and garden machinery,3
+source,32,"Construction, logging, and mining machinery",2s
+source,320,"Construction, logging, and mining machinery— unspecified",3
+source,321,Heavy earth-moving machinery,3s
+source,3210,Heavy earth-moving machinery— unspecified,4
+source,3211,Excavators,4
+source,3212,"Backhoes, trackhoes",4
+source,3213,"Bucket, front-end, and pay loaders",4
+source,3214,Bulldozers,4
+source,3215,Trenchers,4
+source,3216,"Cable shovel, power shovel",4
+source,3217,Continuous bucket excavators,4
+source,3219,Heavy earth-moving machinery— n.e.c.,4
+source,322,Light earth-moving machinery,3s
+source,3220,Light earth-moving machinery— unspecified,4
+source,3221,Mini excavators,4
+source,3222,"Skid-steer loaders, mini loaders",4
+source,3229,Light earth-moving machinery— n.e.c.,4
+source,323,Logging and wood processing machinery,3s
+source,3230,Logging and wood processing machinery— unspecified,4
+source,3231,Mechanical harvesters— logging,4
+source,3232,Forwarding and yarding machinery— except feller-forwarders,4
+source,3233,Skidders— cable and grapple,4
+source,3234,Chippers,4
+source,3235,Log processing machinery,4
+source,3236,Log loaders,4
+source,3239,Logging and wood processing machinery— n.e.c.,4
+source,324,Mining and tunneling machinery,3s
+source,3240,Mining and tunneling machinery— unspecified,4
+source,3241,Longwall shearer,4
+source,3242,Powered supports,4
+source,3243,"Compactors, crushers, pulverizers—earth, mineral",4
+source,3244,"Mineral sorters, separators, concentrators",4
+source,3245,Tunneling machines,4
+source,3249,Mining and tunneling machinery— n.e.c.,4
+source,325,Drilling and extraction machinery,3s
+source,3250,Drilling and extraction machinery— unspecified,4
+source,3251,"Drilling machines, drill apparatus",4
+source,3252,Oil well pump,4
+source,3253,Rotary system equipment,4
+source,3254,Wellhead valves,4
+source,3255,Drilling fluids systems,4
+source,3256,"Rig tongs, power tongs",4
+source,3257,Heater treater,4
+source,3259,Drilling and extraction machinery— n.e.c.,4
+source,326,Road grading and surfacing machinery,3s
+source,3260,Road grading and surfacing machinery— unspecified,4
+source,3261,Asphalt and concrete spreaders,4
+source,3262,"Concrete paving machines, pavers",4
+source,3263,"Rollers, compactors—construction",4
+source,3264,"Graders, scrapers—construction",4
+source,3265,"Milling machines, cold planers, and road profilers",4
+source,3266,Material transfer machines— construction,4
+source,3269,Road grading and surfacing machinery— n.e.c.,4
+source,329,"Other construction, logging, and mining machinery",3s
+source,3291,"Agitators, mixers—earth, mineral",4
+source,3292,"Pile drivers, tamping machinery",4
+source,3299,"Other construction, logging, and mining machinery— n.e.c.",4
+source,33,"Heating, cooling, cleaning, and waste handling machinery",2s
+source,330,"Heating, cooling, cleaning, and waste handling machinery— unspecified",3
+source,331,"Cooling and humidifying machinery, appliances",3s
+source,3310,"Cooling and humidifying machinery, appliances— unspecified",4
+source,3311,Air conditioning units,4
+source,3312,"Fans, blowers—wall, floor, ceiling, ventilation",4
+source,3313,"Humidifiers, dehumidifiers, vaporizers",4
+source,3314,"Refrigerators, freezers, ice makers",4
+source,3319,"Cooling and humidifying machinery, appliances— n.e.c.",4
+source,332,"Heating and cooking machinery, appliances",3s
+source,3320,"Heating and cooking machinery, appliances— unspecified",4
+source,3321,"Beverage heating and percolating equipment, appliances",4
+source,3322,"Frying and pressurized cooking equipment, appliances",4
+source,3323,Fabric pressers and ironing appliances,4
+source,3324,Steaming equipment and appliances—except fabric presses,4
+source,3325,"Furnaces, heaters",4
+source,3326,Cooking and food-warming machinery— except pressurized,4
+source,3327,Kilns,4
+source,3329,"Heating and cooking machinery, appliances— n.e.c.",4
+source,333,"Cleaning machinery, appliances",3s
+source,3330,"Cleaning machinery, appliances— unspecified",4
+source,3331,Car or vehicle washing machinery,4
+source,3332,"Clothes washers, dryers",4
+source,3333,Dishwashers,4
+source,3334,Floor and upholstery cleaners— except vacuums,4
+source,3335,Industrial vacuums,4
+source,3339,"Cleaning machinery, appliances— n.e.c.",4
+source,334,Waste management machinery,3s
+source,3340,Waste management machinery— unspecified,4
+source,3341,"Trash compactors, shredders",4
+source,3342,Garbage disposals,4
+source,3343,Manure and sewage agitation equipment,4
+source,3344,Incinerators,4
+source,3349,Waste management machinery— n.e.c.,4
+source,339,"Heating, cooling, cleaning, and waste handling machinery— n.e.c.",3
+source,34,Material and personnel handling machinery,2s
+source,340,Material and personnel handling machinery— unspecified,3
+source,341,Conveyors,3s
+source,3410,Conveyors— unspecified,4
+source,3411,Chutes,4
+source,3412,"Conveyors—belt, slot, chain",4
+source,3413,"Conveyors—bucket, cup, pan",4
+source,3414,"Conveyors—roller, wheel",4
+source,3415,"Conveyors—pneumatic, tube",4
+source,3416,"Conveyors—screw, auger",4
+source,3419,Conveyors— n.e.c.,4
+source,342,Cranes,3s
+source,3420,Cranes— unspecified,4
+source,3421,Cranes—truck-mounted,4
+source,3422,Cranes—rail-mounted,4
+source,3423,"Cranes—floating, barge mounted",4
+source,3424,Cranes—other mobile cranes,4
+source,3425,"Cranes—tower, self-erecting, pillar, hammerhead",4
+source,3426,"Cranes—gantry, overhead, monorail, container",4
+source,3427,Derricks and related equipment,4
+source,3429,Cranes— n.e.c.,4
+source,343,"Elevators, hoists, lifts",3s
+source,3430,"Elevators, hoists, lifts— unspecified",4
+source,3431,Elevators,4
+source,3432,Dumbwaiters,4
+source,3433,"Vehicle Hoists, lifts",4
+source,3434,"Hoists, lifts— overhead, cable",4
+source,3435,"Hoists, lifts— scissor, telescoping",4
+source,3439,"Elevators, hoists, lifts— n.e.c.",4
+source,344,Jacks,3
+source,345,Pumps— except oil well,3
+source,346,Air compressors,3
+source,347,Material handling and warehousing machinery,3s
+source,3470,Material handling and warehousing machinery— unspecified,4
+source,3471,Order picking and packing machinery,4
+source,3472,Stacking machinery,4
+source,3479,Material handling and warehousing machinery— n.e.c.,4
+source,349,Other material and personnel handling machinery— n.e.c.,3
+source,35,"Metal, woodworking, and special material machinery",2s
+source,350,"Metal, woodworking, and special material machinery— unspecified",3
+source,351,"Extruding, injecting, forming, molding machinery",3s
+source,3510,"Extruding, injecting, forming, molding machinery— unspecified",4
+source,3511,Casting machinery,4
+source,3512,Extruding machinery,4
+source,3513,Forging machinery,4
+source,3514,Plastic injection molding machinery,4
+source,3515,3D printing machinery,4
+source,3519,"Extruding, injecting, forming, molding machinery— n.e.c.",4
+source,352,"Bending, rolling, shaping, stamping machinery",3s
+source,3520,"Bending, rolling, shaping, stamping machinery— unspecified",4
+source,3521,"Stamping machinery, presses— except printing",4
+source,3522,"Bending, crimping machinery",4
+source,3523,Shearing machinery,4
+source,3524,"Rolling mills, rolling, calendering machinery",4
+source,3525,"Winders, unwinders",4
+source,3529,"Bending, rolling, shaping, stamping machinery— n.e.c.",4
+source,353,"Boring, planing, milling machinery",3s
+source,3530,"Boring, planing, milling machinery— unspecified",4
+source,3531,"Stationary drills, milling machinery",4
+source,3532,Planing mills,4
+source,3533,"Boring, reaming, routing, notching machinery",4
+source,3534,Lathes,4
+source,3535,"Threading, tapping machinery",4
+source,3539,"Boring, planing, milling machinery— n.e.c.",4
+source,354,Industrial surfacing and finishing machinery,3s
+source,3540,Industrial surfacing and finishing machinery— unspecified,4
+source,3541,"Grinders, abraders",4
+source,3542,"Honing, polishing, lapping machinery",4
+source,3543,Pressure washers,4
+source,3544,Sandblasting machinery,4
+source,3545,Sanding machinery,4
+source,3546,"Painting, priming, metal coating machinery",4
+source,3549,Industrial surfacing and finishing machinery— n.e.c.,4
+source,355,Stationary sawing machinery,3s
+source,3550,Stationary sawing machinery— unspecified,4
+source,3551,Stationary saws— arm,4
+source,3552,Stationary saws— band,4
+source,3553,Stationary saws— table,4
+source,3559,Stationary sawing machinery—stationary— n.e.c.,4
+source,359,"Other metal, wood, and special material machinery",3s
+source,3590,"Other metal, wood, and special material machinery— unspecified",4
+source,3591,Electrochemical and discharge machinery (EDM),4
+source,3592,Laser cutting machinery,4
+source,3593,Pressure fluid cutting machinery,4
+source,3594,Engraving machinery,4
+source,3595,Welding machinery,4
+source,3599,"Other metal, wood, and special material machinery— n.e.c.",4
+source,36,Special process machinery,2s
+source,360,Special process machinery— unspecified,3
+source,361,Food and beverage processing machinery,3s
+source,3610,Food and beverage processing machinery— unspecified,4
+source,3611,Food slicers,4
+source,3612,"Juice, oil, and fat extractors",4
+source,3613,Meat grinders,4
+source,3614,"Mixers, blenders, whippers—food and beverage",4
+source,3615,Butchering machinery,4
+source,3616,Dairy and milk processing machinery,4
+source,3619,Food and beverage processing machinery— n.e.c.,4
+source,362,"Medical and surgical machinery, equipment",3s
+source,3620,"Medical and surgical machinery, equipment— unspecified",4
+source,3621,"Medical imaging and radiological machinery, equipment",4
+source,3622,Surgical and medical robots,4
+source,3629,"Medical and surgical machinery, equipment— n.e.c.",4
+source,363,"Packaging, bottling, wrapping machinery",3s
+source,3630,"Packaging, bottling, wrapping machinery— unspecified",4
+source,3631,"Bottling, canning, filling machinery",4
+source,3632,"Packaging, wrapping, bundling machinery",4
+source,3633,Product labeling machinery,4
+source,3634,"Banding, baling, strapping machinery",4
+source,3639,"Packaging, bottling, wrapping machinery— n.e.c.",4
+source,364,Paper production machinery,3s
+source,3640,Paper production machinery— unspecified,4
+source,3641,"Washing, refining, and pulping machinery—paper production",4
+source,3642,"Rollers, calenders, dryers—paper production",4
+source,3643,"Cutters, slitters, winders—paper production",4
+source,3649,Paper production machinery— n.e.c.,4
+source,365,Printing machinery,3s
+source,3650,Printing machinery— unspecified,4
+source,3651,Bindery machinery,4
+source,3652,Industrial printing machinery,4
+source,3659,Printing machinery— n.e.c.,4
+source,366,"Textile, apparel, leather production machinery",3s
+source,3660,"Textile, apparel, leather production machinery— unspecified",4
+source,3661,"Picking, carding, combing machinery",4
+source,3662,Spinning machinery,4
+source,3663,Textile dyeing machinery,4
+source,3664,"Knitting, weaving machinery",4
+source,3665,"Sewing, stitching machinery",4
+source,3669,"Textile, apparel, leather production machinery— n.e.c.",4
+source,367,Separating and conversion machinery,3s
+source,3670,Separating and conversion— unspecified,4
+source,3671,Centrifuges,4
+source,3672,"Distilling, rectifying machinery",4
+source,3673,Filtering and sequestration machinery,4
+source,3674,Liquefaction machinery,4
+source,3675,Generators,4
+source,3679,Separating and conversion machinery— n.e.c.,4
+source,369,Other special process machinery,3s
+source,3691,"Other product testing, inspecting, and diagnostic machinery",4
+source,3699,Other special process machinery— n.e.c.,4
+source,37,Flying and orbiting machinery,2s
+source,370,Flying and orbiting machinery— unspecified,3
+source,371,Rockets— unmanned,3
+source,372,Satellites,3
+source,373,Drones,3
+source,379,Flying and orbiting machinery— n.e.c.,3
+source,39,Miscellaneous machinery,2s
+source,391,"Vending, and gaming machines",3
+source,392,"Ski lifts, gondola rides",3
+source,393,Other amusement rides,3
+source,399,Other miscellaneous machinery— n.e.c.,3
+source,4,PARTS AND MATERIALS,1s
+source,40,Parts and materials— unspecified,2
+source,41,Raw and semi-finished materials and byproducts,2s
+source,410,Raw and semi-finished materials and byproducts— unspecified,3
+source,411,"Earth and stone materials— raw, semi-finished",3s
+source,4110,"Earth and stone materials— raw, semi-finished— unspecified",4
+source,4111,"Dirt, earth, mud",4
+source,4112,Sand,4
+source,4113,"Rocks, stone, gravel",4
+source,4114,Boulders,4
+source,4118,Multiple earth and mineral materials,4
+source,4119,"Earth and stone materials— raw, semi-finished— n.e.c.",4
+source,412,"Metal materials—raw, semi-finished",3s
+source,4120,Metal materials—unspecified,4
+source,4121,Non radiating metal ores—raw,4
+source,4122,"Metal sheets, ingots, bars—semi-finished",4
+source,413,"Other mineral materials, except fuel",3s
+source,4130,Other mineral materials— except fuel— unspecified,4
+source,4131,Salts,4
+source,4132,Silica,4
+source,4133,Asbestos,4
+source,4138,Multiple mineral materials— except fuel,4
+source,4139,Other mineral materials— except fuel,4
+source,414,"Chips, particles, pellets",3s
+source,4140,"Chips, particles, splinters— unspecified",4
+source,4141,Nanoparticles— any material,4
+source,4142,"Chips, pellets— wood",4
+source,4143,"Chips, pellets— metal",4
+source,4144,"Chips, pellets— plastic",4
+source,4145,"Chips, shards, fibers— glass",4
+source,4149,"Chips, particles, splinters— n.e.c.",4
+source,415,"Steam, vapors, liquids, ice— non-chemical",3s
+source,4150,"Steam, vapors, liquids, ice— unspecified",4
+source,4151,"Steam, vapors—nonchemical",4
+source,4152,"Water, liquids—nonchemical",4
+source,4153,"Ice—blocks, cubes, crushed",4
+source,416,Hot or molten materials— except water-based,3s
+source,4160,Hot or molten materials— unspecified,4
+source,4161,"Asphalt, tar— unmolded",4
+source,4162,"Molten metal, slag",4
+source,4168,Multiple hot or molten materials,4
+source,4169,Hot or molten materials— n.e.c..,4
+source,417,"Garbage, recyclables, debris",3s
+source,4171,"Dusts, powder residue",4
+source,4172,Construction debris,4
+source,4173,Scrap metal,4
+source,4179,"Garbage, recyclables, debris— n.e.c.",4
+source,418,Multiple raw and semi-finished materials and byproducts,3
+source,419,Raw and semi-finished materials and byproducts— n.e.c.,3
+source,42,Building materials,2s
+source,420,Building materials— unspecified form,3s
+source,4200,Building materials— unspecified,4
+source,4201,Wood building materials— unspecified form,4
+source,4202,Masonry building materials— unspecified form,4
+source,4203,Metal building materials— unspecified form,4
+source,4204,"Plastic, vinyl, and PVC building materials— unspecified form",4
+source,4205,Glass building materials— unspecified form,4
+source,4208,Multiple building materials— unspecified form,4
+source,4209,Building materials— unspecified form— n.e.c.,4
+source,421,"Beams, rods, blocks",3s
+source,4210,"Beams, rods, blocks— unspecified",4
+source,4211,Dimensional lumber,4
+source,4212,Structural blocks— stone and masonry,4
+source,4213,Beams and rails— metal,4
+source,4214,"Beams, rods, blocks—plastic",4
+source,4215,"Beams, rods, blocks—fiberglass",4
+source,4216,"Rods, reinforcing bar (rebar)—metal",4
+source,4217,"Dowls, rods, stakes—wooden",4
+source,4218,"Multiple beams, rods, blocks",4
+source,4219,"Beams, rods, blocks— n.e.c.",4
+source,422,"Pipes, ducts, tubing",3s
+source,4220,"Pipes, ducts, tubing— unspecified",4
+source,4221,Pipes and tubes— wooden,4
+source,4222,"Pipes, conduits— concrete or clay",4
+source,4223,"Pipes, tubes— metal",4
+source,4224,"Pipes and tubes— plastic, PVC, rubber",4
+source,4225,Pipes and tubes— fiberglass,4
+source,4226,Ducts— any material,4
+source,4227,"Gutters, downspouts— any material",4
+source,4228,"Multiple pipes, ducts, tubing",4
+source,4229,"Pipes, ducts, tubing— n.e.c.",4
+source,423,"Structural panels, sheets, plates",3s
+source,4230,Structural panels and sheets— unspecified,4
+source,4231,"Sheets, panels— wood, plywood, MDF",4
+source,4232,"Plates, slabs— concrete and stone",4
+source,4233,"Panels, sheets, plates— metal",4
+source,4234,"Panels, sheets, plates— acrylic, plexiglass",4
+source,4235,"Panels, sheets, plates— glass",4
+source,4236,"Wallboard, drywall, sheetrock",4
+source,4238,Multiple structural panel and sheet materials,4
+source,4239,Structural panels and sheets— n.e.c.,4
+source,424,Finishing and surfacing materials,3s
+source,4240,Finishing and surfacing materials— unspecified,4
+source,4241,Paneling and trim,4
+source,4242,Bricks and pavers— stone and masonry,4
+source,4243,Exterior siding,4
+source,4244,Interior flooring,4
+source,4245,"Tiles— ceramic, stone, glass",4
+source,4246,Roofing shingles and sheets,4
+source,4247,Drop ceiling tiles,4
+source,4248,Multiple finishing and surfacing materials,4
+source,4249,Finishing and surfacing materials— n.e.c.,4
+source,425,"Flexible barriers, coverings",3s
+source,4250,"Flexible barriers, coverings— unspecified",4
+source,4251,"Tarps, liners, wraps",4
+source,4252,Insulation— fiberglass,4
+source,4253,Fencing and screening material,4
+source,4258,"Multiple flexible barriers, coverings",4
+source,4259,"Flexible barriers, coverings— n.e.c.",4
+source,426,"Concrete— wet mix, or dry mix",3
+source,428,Multiple building materials,3
+source,429,Building materials n.e.c.,3
+source,43,"Adhesives, sealants, paints",2s
+source,430,"Adhesives, sealants, paints— unspecified",3
+source,431,"Caulking, insulation— foam",3
+source,432,"Caulking— plastic, vinyl",3
+source,433,"Glues, adhesives",3
+source,434,"Paint, lacquer, shellac, varnish",3
+source,438,"Multiple adhesives, sealants, and paints",3
+source,439,"Adhesives, sealants, and paints— n.e.c.",3
+source,44,"Fasteners, connectors, ropes, ties",2s
+source,440,"Fasteners, connectors, ropes, ties— unspecified",3
+source,441,Fasteners,3s
+source,4410,Fasteners— unspecified,4
+source,4411,"Clamps, couplings",4
+source,4412,"Nails, brads, tacks, spikes",4
+source,4413,"Door and window hardware— Hinges, latches, etc.",4
+source,4414,"Rivets, bolts",4
+source,4415,Screws,4
+source,4416,"Pipe fittings, collars",4
+source,4417,Staples,4
+source,4418,Multiple fasteners,4
+source,4419,Fasteners— n.e.c.,4
+source,442,"Ropes, ties, chains",3s
+source,4420,"Ropes, ties, chains— unspecified",4
+source,4421,Bungee cords,4
+source,4422,Chains,4
+source,4423,"Rope, twine, string",4
+source,4424,"Strapping, bands",4
+source,4425,"Wire, cables—nonelectrified",4
+source,4428,"Multiple ropes, ties, chains— unspecified",4
+source,4429,"Ropes, ties, chains— n.e.c.",4
+source,443,"Valves, nozzles",3
+source,448,"Multiple fasteners, connectors, ropes, ties",3
+source,449,"Fasteners, connectors, ropes, ties— n.e.c.",3
+source,45,Hoisting accessories,2s
+source,450,Hoisting accessories— unspecified,3
+source,451,"Fixtures, load indicators",3
+source,452,"Hooks, shackles, magnets, clamshells",3
+source,453,Slings,3
+source,454,"Drums, pulleys, sheaves",3
+source,458,Multiple hoisting accessories,3
+source,459,Hoisting accessories— n.e.c.,3
+source,46,"Vehicle and machine parts— power, mechanical, special process",2s
+source,460,Vehicle and machine parts— unspecified,3
+source,461,Electric parts,3s
+source,4610,Electric parts— unspecified,4
+source,4611,Electrical wiring—building or machine,4
+source,4612,"Power lines, transformers, convertors",4
+source,4613,"Power cords, electrical cords, extension cords",4
+source,4614,Solar panels,4
+source,4615,"Switchboards, panels, fuses",4
+source,4618,Multiple electric parts,4
+source,4619,Electric parts— n.e.c.,4
+source,462,"Engine, motor, and mechanical parts",3s
+source,4620,"Engine, motor, and mechanical parts— unspecified",4
+source,4621,"Combustion engine blocks, cylinders, pistons",4
+source,4622,"Drives, belts, chains",4
+source,4623,"Springs, coils",4
+source,4624,Fan and turbine parts,4
+source,4625,Radiators,4
+source,4626,"Transmissions, gears",4
+source,4628,"Multiple engine and mechanical parts, whole engine",4
+source,4629,"Engine, motor, and mechanical parts— n.e.c.",4
+source,463,Machine hydraulics and pressurized components,3s
+source,4630,Machine hydraulics and pressurized components— unspecified,4
+source,4631,Hydraulic and pressurized cylinders,4
+source,4632,"Hydraulic and pressurized hoses, lines",4
+source,4633,Pressurized pipes— vehicle and machine,4
+source,4638,Multiple machine hydraulics and pressurized components,4
+source,4639,Machine hydraulics and pressurized components— n.e.c.,4
+source,464,"Machine and tool parts, accessories— special process",3s
+source,4640,"Machine and tool parts, accessories— unspecified",4
+source,4641,Drill bits,4
+source,4642,Saw blades,4
+source,4643,"Dies, molds, patterns",4
+source,4644,"Rollers, cylinders",4
+source,4645,Augers— except conveyor,4
+source,4648,"Multiple tool parts, accessories",4
+source,4649,"Machine and tool parts, accessories— n.e.c.",4
+source,465,Batteries and related equipment,3s
+source,4650,Batteries and related equipment— unspecified,4
+source,4651,Batteries,4
+source,4652,Battery charging equipment,4
+source,4659,Batteries related equipment— n.e.c.,4
+source,466,"Computer parts, components",3
+source,467,Fiber optics and internet cables,3
+source,468,"Multiple power, mechanical, special process parts",3
+source,469,"Power, mechanical, and special process parts— n.e.c.",3
+source,47,"Vehicle and machine parts— exterior, cabin, attachments",2s
+source,470,Vehicle and machine parts— unspecified,3
+source,471,Undercarriage components,3s
+source,4710,Undercarriage components— unspecified,4
+source,4711,Muffler and exhaust systems,4
+source,4712,"Tires, inner tubes",4
+source,4713,"Wheels, tire rims",4
+source,4714,Continuous tracks,4
+source,4715,Brake assemblies,4
+source,4716,"Axles, suspensions",4
+source,4717,"Vehicle, machine frame",4
+source,4718,Multiple undercarriage components,4
+source,4719,Undercarriage components— n.e.c.,4
+source,472,Vehicle and machine exterior parts,3s
+source,4720,Exterior vehicle and machine parts— unspecified,4
+source,4721,"Doors, hatches— vehicle and machine cabin",4
+source,4722,"Gates, hatches— vehicle and machine cargo",4
+source,4723,Bumpers,4
+source,4724,"Windows, windshields— vehicle and machine",4
+source,4725,Open cargo areas— vehicle and machine,4
+source,4726,"Vehicle and machine platforms, surfaces",4
+source,4728,Multiple exterior vehicle and machine parts,4
+source,4729,Exterior vehicle and machine parts— n.e.c.,4
+source,473,Vehicle and machine cabin parts,3s
+source,4730,Vehicle and machine cabin parts— unspecified,4
+source,4731,Vehicle and machine seats,4
+source,4732,Seat Belts,4
+source,4733,Vehicle and machine controls,4
+source,4734,Air Bags,4
+source,4735,Rear view and visor mounted mirrors,4
+source,4736,Vehicle interior compartment doors,4
+source,4738,Multiple vehicle and machine cabin parts,4
+source,4739,Vehicle and machine cabin parts— n.e.c.,4
+source,474,Vehicle and machine attachments— except agricultural,3s
+source,4740,Vehicle and machine attachments— unspecified,4
+source,4741,"Vehicle trailers, trailing units",4
+source,4742,Vehicle and machine front attachments,4
+source,4743,Powered take offs (PTOs),4
+source,4744,Vehicle hitches,4
+source,4748,Multiple vehicle and machine attachments,4
+source,4749,Vehicle and machine attachments— n.e.c.,4
+source,478,Multiple vehicle and mobile equipment parts,3
+source,479,Vehicle and mobile equipment parts— n.e.c.,3
+source,49,Other parts and materials,2s
+source,491,"Caps, lids, covers",3s
+source,4910,"Caps, lids, covers— unspecified",4
+source,4911,"Container caps, lids, covers",4
+source,4912,Manhole and cistern covers,4
+source,4919,"Caps, lids, covers— n.e.c.",4
+source,492,Furniture and fixture parts,3
+source,493,Paper products and packaging,3s
+source,4930,Paper products and packaging— unspecified,4
+source,4931,"Books, charts, paper materials— bound",4
+source,4932,"Sheet paper, cardstock—unbound",4
+source,4933,Cardboard,4
+source,4934,Plastic wrap,4
+source,4935,Tape,4
+source,4939,Paper products and packaging— n.e.c.,4
+source,494,Textiles,3s
+source,4940,Textiles— unspecified,4
+source,4941,"Fabric, unfinished",4
+source,4942,"Yarn, thread",4
+source,4949,Textiles— n.e.c.,4
+source,498,Multiple parts and materials,3
+source,499,Parts and materials— n.e.c.,3
+source,5,"ANIMALS, PLANTS, PERSONS, ETC.",1s
+source,50,"Animals, plants, persons— unspecified",2
+source,51,Animals,2s
+source,510,Animals— unspecified,3
+source,511,"Birds, fowl",3s
+source,5110,"Birds, fowl— unspecified",4
+source,5111,Birds— except fowl,4
+source,5112,"Chickens, turkeys",4
+source,5113,"Ducks, geese",4
+source,5119,"Birds, fowl— n.e.c.",4
+source,512,Aquatic animals,3s
+source,5120,Aquatic animals— unspecified,4
+source,5121,Fish,4
+source,5122,"Crustaceans, shellfish",4
+source,5123,Aquatic mammals,4
+source,5129,Aquatic animals— n.e.c.,4
+source,513,"Insects, arachnids, mites",3s
+source,5130,"Insects, arachnids, mites— unspecified",4
+source,5131,"Bees, hornets, wasps",4
+source,5132,"Spiders, scorpions",4
+source,5133,Ants,4
+source,5134,"Lice, fleas, bedbugs",4
+source,5135,Mosquitoes,4
+source,5136,Ticks,4
+source,5137,"Mites, scabies",4
+source,5138,"Multiple insects, arachnids, mites",4
+source,5139,"Insects, arachnids, mites— n.e.c.",4
+source,514,Reptiles,3s
+source,5140,Reptiles— unspecified,4
+source,5141,Venomous snakes,4
+source,5142,Nonvenomous snakes,4
+source,5149,Reptiles— n.e.c.,4
+source,515,"Mammals, except humans and aquatic",3s
+source,5150,Mammals— unspecified,4
+source,5151,"Cats, felines—domestic",4
+source,5152,"Dogs, canines—domestic",4
+source,5153,"Cattle, bovines",4
+source,5154,"Horses, equines",4
+source,5155,Rodents,4
+source,5156,"Sheep, goats, caprids",4
+source,5157,"Swine, porcines",4
+source,5158,"Deer, cervids",4
+source,5159,Mammals— n.e.c.,4
+source,519,Animals— n.e.c.,3
+source,52,Animal and plant byproducts,2s
+source,520,Animal and plant byproducts— unspecified,3
+source,521,Animal products— nonfood,3s
+source,5210,Animal products—nonfood— unspecified,4
+source,5211,"Bones, shells",4
+source,5212,"Hides, fur, feathers",4
+source,5213,Animal manure and waste products,4
+source,5214,Animal carcass,4
+source,5219,Animal products—nonfood— n.e.c.,4
+source,522,Food products,3s
+source,5220,Food products— unspecified,4
+source,5221,"Fats, oils, cooking greases",4
+source,5222,Liquid foods and beverages,4
+source,5223,Dairy products,4
+source,5224,"Nuts, seeds, peanuts",4
+source,5225,"Fruits, vegetables",4
+source,5226,"Grains, cereals, baked goods",4
+source,5227,"Meat, poultry, seafood",4
+source,5228,Multiple foods or groceries,4
+source,5229,Food products— n.e.c.,4
+source,523,Animal feed,3
+source,529,Animal and plant byproducts— n.e.c.,3
+source,53,"Biohazardous and infectious agents, substances",2s
+source,530,"Biohazardous and infectious agents, substances— unspecified",3
+source,531,Infectious agents,3s
+source,5310,Infectious agents— unspecified,4
+source,5311,Bacteria,4
+source,5312,Viruses,4
+source,5313,Parasites,4
+source,5319,Infectious agents— n.e.c.,4
+source,532,"Mold, mildew",3
+source,533,"Sewage, wastewater",3
+source,539,"Biohazardous and infectious agents, substances— n.e.c.",3
+source,54,"Plants, trees, vegetation",2s
+source,540,"Plants, trees, vegetation— unspecified",3
+source,541,Organic dusts,3s
+source,5411,Pollen,4
+source,5412,Grain dust,4
+source,5419,Organic dust— n.e.c.,4
+source,542,"Loose grain, processed grain crops",3
+source,543,Field crops,3
+source,544,"Poison ivy, oak, sumac, rhus",3
+source,545,"Brush, shrubs, undergrowth",3
+source,546,"Trees, logs, limbs",3s
+source,5460,"Trees, logs, limbs— unspecified",4
+source,5461,Trees,4
+source,5462,Logs,4
+source,5463,"Limbs, branches—unattached",4
+source,5464,Tree stumps,4
+source,5469,"Trees, logs, limbs— n.e.c.",4
+source,547,"Mulch, compost",3
+source,549,"Other plants, vegetation",3
+source,55,Bodily fluids or substances other person,2s
+source,550,Bodily fluids or substances of other person— unspecified,3
+source,551,Blood of other person,3
+source,552,Urine or feces of other person,3
+source,553,Mucus or saliva of other person,3
+source,554,Human remains,3
+source,558,Combination of bodily fluids or substances of other person,3
+source,559,Bodily fluids or substances of other person— n.e.c.,3
+source,56,"Activities and conditions of injured, ill worker",2s
+source,560,"Activities and conditions of injured, ill worker, unspecified",3
+source,561,"Bodily conditions of injured, ill worker",3s
+source,5610,"Bodily conditions of injured, ill worker— unspecified",4
+source,5611,"Mental illness, impairment of injured, ill worker",4
+source,5612,"Cardiovascular, respiratory conditions of injured, ill worker",4
+source,5613,"Neurological conditions of injured, ill worker",4
+source,5614,"Asthma, allergies of injured, ill worker",4
+source,5615,"Musculoskeletal conditions of injured, ill worker",4
+source,5619,"Bodily conditions of injured, ill worker— n.e.c.",4
+source,562,"Bodily motion or position of injured, ill worker",3
+source,569,"Activities and conditions of injured, ill worker— n.e.c.",3
+source,57,Person—other than injured or ill worker,2s
+source,570,"Person, other than injured or ill worker— unspecified",3
+source,571,Relative or domestic partner of injured or ill worker,3s
+source,5710,Relative or domestic partner of injured or ill worker— unspecified,4
+source,5711,Spouse or domestic partner of injured or ill worker,4
+source,5712,Former or estranged partner of injured or ill worker,4
+source,5713,Immediate family member other than partner,4
+source,5719,Other relative of injured or ill worker— n.e.c.,4
+source,572,Co-worker or work associate of injured or ill worker,3s
+source,5720,Co-worker or work associate of injured or ill worker— unspecified,4
+source,5721,"Co-worker, supervisor— current",4
+source,5722,"Co-worker, supervisor— former",4
+source,5729,Work associate— n.e.c.,4
+source,573,"Student, patient, charge",3s
+source,5730,"Student, patient, charge— unspecified",4
+source,5731,Student,4
+source,5732,Patient,4
+source,5733,Other charge or ward,4
+source,5734,"Family member or associate of student, patient or charge",4
+source,5739,"Student, patient, charge— n.e.c.",4
+source,574,Client or customer,3
+source,575,Acquaintance,3
+source,576,Criminal assailants,3s
+source,5760,Criminal assailant— unspecified,4
+source,5761,Criminal inmate or detainee in custody,4
+source,5762,Suspect under pursuit or investigation,4
+source,5763,Robber,4
+source,5769,Criminal assailant— except robber,4
+source,579,"Person, other than injured or ill worker— n.e.c.",3
+source,59,"Persons, plants, animals, and minerals— n.e.c.",2
+source,6,STRUCTURES AND SURFACES,1s
+source,60,Structures and surfaces— unspecified,2
+source,61,Confined spaces,2s
+source,610,Confined spaces— unspecified,3
+source,611,"Ditches, channels, trenches, excavations",3
+source,612,"Mines, caves, tunnels, pipes",3s
+source,6120,"Mines, caves, tunnels, pipes— unspecified",4
+source,6121,"Underground mines, mine tunnels",4
+source,6122,"Sewers, drains, water pipes",4
+source,6123,Oil and gas pipeline,4
+source,6124,"Pedestrian, subway, train tunnels",4
+source,6129,"Mines, caves, tunnels, pipes— n.e.c.",4
+source,613,"Tank, bin, vat interiors",3s
+source,6130,"Tank, bin, vat interiors— unspecified",4
+source,6131,"Silo, grain bin or elevator interiors",4
+source,6132,Hopper interior,4
+source,6133,Septic or water tank interiors,4
+source,6134,Trash bin or dumpster interiors,4
+source,6135,Oil and gas tank interiors,4
+source,6139,"Tank, bin, vat interiors— n.e.c.",4
+source,614,Other confined spaces,3s
+source,6141,Crawl spaces,4
+source,6142,"Wells, cisterns",4
+source,6143,"Manure pits, ponds",4
+source,6144,"Spray, paint booths",4
+source,6145,Elevator shafts,4
+source,6146,"Vehicle confined spaces— except tanks, bins, vats",4
+source,6149,Other confined spaces— n.e.c.,4
+source,62,Buildings,2s
+source,620,Building— unspecified,3
+source,621,Industrial building,3
+source,622,Commercial or institutional building,3
+source,623,Residential building,3
+source,624,Silos,3
+source,625,Agricultural building— except silos,3
+source,626,Mobile building,3
+source,629,Building— n.e.c.,3
+source,63,Structures other than buildings,2s
+source,630,Structures other than buildings— unspecified,3
+source,631,Offshore oil platform,3
+source,632,"Bridges, dams, locks",3
+source,633,Structural barriers,3s
+source,6330,Structural barriers— unspecified,4
+source,6331,"Guardrails, road dividers or barriers",4
+source,6332,Parking blocks or barriers,4
+source,6333,Retaining wall,4
+source,6334,Fences,4
+source,6335,Gates,4
+source,6339,Structural barriers— n.e.c.,4
+source,634,"Scaffolds, staging",3s
+source,6340,"Scaffolds, staging— unspecified",4
+source,6341,Improvised scaffolds or staging,4
+source,6342,Self-supporting scaffolds or staging,4
+source,6343,Suspended or hanging scaffolds or staging,4
+source,6344,Catwalks,4
+source,6349,Scaffolds—staging— n.e.c.,4
+source,635,"Towers, poles",3s
+source,6350,"Towers, poles— unspecified",4
+source,6351,Telecommunications and cell phone towers,4
+source,6352,Utility poles,4
+source,6353,"Road signs, poles— except utility",4
+source,6354,"Windmills, wind turbines",4
+source,6355,Water towers,4
+source,6359,"Towers, poles— n.e.c.",4
+source,636,Man-made water enclosures,3s
+source,6360,Man-made water enclosures— unspecified,4
+source,6361,Swimming pools,4
+source,6362,Man-made water enclosures— except swimming pools,4
+source,637,"Excavations, strip mines, and quarries— except confined space",3
+source,638,Other structures,3s
+source,6380,Other structures— unspecified,4
+source,6381,"Porches, balconies, decks",4
+source,6382,"Piers, wharfs, water docks",4
+source,6383,Railroad tracks,4
+source,6384,Hydrants,4
+source,6385,Mailboxes,4
+source,6386,"Stadia, pavilions, stages",4
+source,6389,Structures— n.e.c.,4
+source,639,Structures other than buildings— n.e.c.,3
+source,64,Building systems,2s
+source,640,Building systems— unspecified,3
+source,641,Ventilation and climate control systems,3
+source,642,Plumbing systems,3
+source,643,Electrical systems,3
+source,649,Building systems— n.e.c.,3
+source,65,Other structural elements,2s
+source,650,Other structural elements— unspecified,3
+source,651,Doors— structurally attached,3s
+source,6510,Doors— unspecified,4
+source,6511,Doors— swinging and sliding,4
+source,6512,Doors— rail mounted and garage,4
+source,6513,Doors— rotating,4
+source,652,"Windows, openings— structurally attached",3
+source,653,Roofs,3s
+source,6530,Roofs— unspecified,4
+source,6531,Skylights or other existing roof openings,4
+source,6532,Roof surface,4
+source,654,Ceilings,3
+source,655,Walls,3
+source,656,"Trusses, girders, beams—structurally attached",3
+source,657,"Handrails, banisters—structurally attached",3
+source,658,"Loading docks, dock plates",3
+source,659,Structural elements— n.e.c.,3
+source,66,"Ground, travel, and support surfaces",2s
+source,660,"Ground, travel, and support surfaces— unspecified",3
+source,661,"Stairs, multi level surfaces",3s
+source,6611,"Stairs, steps",4
+source,6612,Curbs,4
+source,6613,Escalators,4
+source,6614,Fixed ladder or fire escape,4
+source,662,Constructed surfaces,3s
+source,6621,"Ramps, inclines",4
+source,6622,"Existing opening, hole in constructed surface",4
+source,6623,Constructed surface irregularity,4
+source,6624,Other constructed surface,4
+source,663,"Natural surfaces, structures",3s
+source,6631,"Slopes, embankments",4
+source,6632,"Hills, mountains",4
+source,6633,Recessed earth structures,4
+source,6634,Hole in ground,4
+source,6635,Ground irregularity,4
+source,6636,Ground,4
+source,664,Moving walkways,3
+source,669,"Ground, travel and support surfaces— n.e.c.",3
+source,67,Bodies of water,2s
+source,670,Bodies of water— unspecified,3
+source,671,"Ponds, lakes",3
+source,672,"Rivers, streams",3
+source,673,Coastal waters,3
+source,674,"Oceans, seas",3
+source,679,Bodies of water— n.e.c.,3
+source,69,Structures and surfaces— n.e.c.,2
+source,7,"TOOLS, INSTRUMENTS, AND EQUIPMENT",1s
+source,70,"Tools, instruments, and equipment— unspecified",2
+source,71,Handtools,2s
+source,710,Handtools— unspecified,3
+source,711,Boring handtools,3s
+source,7110,Boring handtools— unspecified,4
+source,7111,"Plumbing augers, snakes",4
+source,7112,"Drills, braces, drivers",4
+source,7113,"Routers, molders",4
+source,7114,"Awls, punches",4
+source,7119,Boring handtools— n.e.c.,4
+source,712,Cutting handtools,3s
+source,7120,Cutting handtools— unspecified,4
+source,7121,Chainsaws,4
+source,7122,Saws— except chainsaws,4
+source,7123,"Box cutters, razor knives",4
+source,7124,Knives,4
+source,7125,"Scissors, snips, shears",4
+source,7126,"Lawn edgers, trimmers",4
+source,7127,"Axes, hatchets",4
+source,7128,Bolt cutters,4
+source,7129,Cutting handtools— n.e.c.,4
+source,713,Digging and material moving handtools,3s
+source,7130,Digging and material moving handtools — unspecified,4
+source,7131,Hoes,4
+source,7132,Picks,4
+source,7133,Shovels,4
+source,7134,Trowels,4
+source,7135,"Rakes, pitchforks",4
+source,7139,Digging and material moving handtools— n.e.c.,4
+source,714,Gripping and turning handtools,3s
+source,7140,Gripping and turning handtools— unspecified,4
+source,7141,Pliers,4
+source,7142,"Vises, clamps",4
+source,7143,Tongs,4
+source,7144,"Wrenches, ratchets",4
+source,7145,Screwdrivers,4
+source,7149,Gripping and turning handtools— n.e.c.,4
+source,715,Striking and nailing handtools,3s
+source,7150,Striking and nailing handtools— unspecified,4
+source,7151,Jackhammers,4
+source,7152,"Sledges, sledgehammers",4
+source,7153,Riveters,4
+source,7154,Nailing or stapling tools,4
+source,7155,Chisels,4
+source,7156,"Toe kickers, knee kickers",4
+source,7157,"Other hammers, mallets",4
+source,7159,Striking and nailing handtools— n.e.c.,4
+source,716,Surfacing handtools,3s
+source,7160,Surfacing handtools— unspecified,4
+source,7161,Grinders— handtool,4
+source,7162,Sanders— handtool,4
+source,7163,Files—surfacing handtool,4
+source,7164,Planes—surfacing handtool,4
+source,7165,Sharpening stones and wheels,4
+source,7166,Scrapers,4
+source,7169,Surfacing handtools— n.e.c.,4
+source,717,Cleaning handtools,3s
+source,7170,Cleaning handtools— unspecified,4
+source,7171,"Buffers, polishers, waxers, scrubbers",4
+source,7172,"Handled cleaning tools, brooms, mops",4
+source,7173,Vacuum cleaners,4
+source,7179,Cleaning handtools— n.e.c.,4
+source,718,Welding and heating handtools,3s
+source,7180,Welding and heating handtools— unspecified,4
+source,7181,"Torches— welding, cutting",4
+source,7182,Soldering irons,4
+source,7183,Heat guns,4
+source,7184,Personal care heat equipment,4
+source,7185,Blow torches— except welding,4
+source,7189,Welding and heating handtools— n.e.c.,4
+source,719,Other handtools,3s
+source,7190,Other handtools— unspecified,4
+source,7191,"Handheld paint guns, sprayers",4
+source,7192,Cooking and eating utensils— except knives,4
+source,7193,Push-pull rams,4
+source,7194,Crowbars,4
+source,7195,"Tape guns, dispensers",4
+source,7198,Multiple handtools,4
+source,7199,Other handtools— n.e.c.,4
+source,72,Measurement and scientific devices,2s
+source,720,Measurement and scientific devices— unspecified,3
+source,721,Laboratory equipment,3
+source,722,"Calipers, micrometers",3
+source,723,Gauges,3
+source,724,"Levels, plumb bobs",3
+source,725,"Rulers, tape measures",3
+source,726,Guiding tools,3
+source,727,Scales,3
+source,728,Clocks,3
+source,729,Measurement and scientific devices— n.e.c.,3
+source,73,Portable ladders and stairs,2s
+source,730,Portable ladders and stairs— unspecified,3
+source,731,Extension ladders,3
+source,732,Straight ladders,3
+source,733,Step ladders,3
+source,734,Multipurpose ladders,3
+source,735,"Truck mounted ladders, aerial ladder trams",3
+source,736,Portable stairs,3
+source,739,Portable ladders and stairs— n.e.c.,3
+source,74,"Medical, dental, and surgical instruments and equipment",2s
+source,740,"Medical, dental, and surgical instruments and equipment— unspecified",3
+source,741,Medical sharp instruments,3s
+source,7410,Medical sharp instruments— unspecified,4
+source,7411,"Needles, syringes",4
+source,7412,Scalpels,4
+source,7419,Medical sharp instruments— n.e.c.,4
+source,742,Health care and orthopedic equipment,3s
+source,7420,Health care and orthopedic equipment— unspecified,4
+source,7421,"Canes, crutches, walkers",4
+source,7422,Corrective or supportive devices,4
+source,7429,Health care and orthopedic equipment— n.e.c.,4
+source,743,"Wheelchairs, mobility devices",3s
+source,7430,"Wheelchairs, mobility devices— unspecified",4
+source,7431,"Wheelchairs, scooters— powered",4
+source,7432,"Wheelchairs, scooters— nonpowered",4
+source,7439,Other mobility devices— n.e.c.,4
+source,744,"Medical beds, stretchers, cots",3
+source,745,"Patient hoists, lifting harnesses",3
+source,746,"Intravenous (IV) poles, pumps and monitors",3
+source,747,Dental handpieces,3
+source,749,"Medical, dental, and surgical instruments and equipment— n.e.c.",3
+source,75,"Media, office, and business equipment",2s
+source,750,"Media, office, and business equipment— unspecified",3
+source,751,Personal electronic devices,3s
+source,7510,Personal electronic devices— unspecified,4
+source,7511,"Phones, communication devices— wired and wireless",4
+source,7512,"Laptops, tablets",4
+source,7513,Audio headphones,4
+source,7514,Virtual reality (VR) headsets,4
+source,7515,"Computer keyboards, mice, laptop trackpads",4
+source,7518,Multiple personal electronic devices,4
+source,7519,Personal electronic devices— n.e.c.,4
+source,752,Computer and media equipment,3s
+source,7520,Computer and media equipment— unspecified,4
+source,7521,"Computers— Desktop, towers, servers",4
+source,7522,"Televisions, monitors, electronic screens",4
+source,7523,"Cameras, photography equipment— except phone cameras",4
+source,7524,Audio equipment,4
+source,7525,Projectors; theatrical lighting equipment,4
+source,7528,Multiple computer and media equipment,4
+source,7529,Computer and media equipment— n.e.c.,4
+source,753,Document handling equipment,3s
+source,7530,Document handling equipment and materials— unspecified,4
+source,7531,Printers and plotters—computer,4
+source,7532,"Photocopiers, scanners",4
+source,7533,Document shredders,4
+source,7539,Document handling equipment— n.e.c.,4
+source,754,"Office, banking, and retail equipment",3s
+source,7540,"Office, banking, and retail equipment— unspecified",4
+source,7541,Automated teller machines (ATM),4
+source,7542,"Calculating devices, cash registers",4
+source,7543,Mailing and metering equipment,4
+source,7549,"Office, banking, and retail equipment— n.e.c.",4
+source,759,"Media, office and business equipment— n.e.c.",3
+source,76,Writing and artistic equipment,2s
+source,760,Writing and artistic equipment— unspecified,3
+source,761,Writing and artistic utensils,3s
+source,7610,Writing and artistic utensils— unspecified,4
+source,7611,"Dividers, compasses, protractors",4
+source,7612,"Pens, pencils, chalk, crayons",4
+source,7618,Multiple types of writing and artistic utensils,4
+source,7619,Writing and artistic utensils— n.e.c.,4
+source,762,Musical instruments,3s
+source,7620,Musical instrument— unspecified,4
+source,7621,"Pianos, organs, keyboards",4
+source,7629,Musical instruments— n.e.c.,4
+source,763,Sewing notions,3
+source,769,Writing and artistic equipment— n.e.c.,3
+source,77,Athletic and outdoor equipment,2s
+source,770,Athletic and outdoor equipment— unspecified,3
+source,771,"Ball, stick, and throwing sports equipment",3
+source,772,Gymnasium and exercise equipment,3
+source,773,"Skis, snow sports equipment",3
+source,774,Water sports equipment,3
+source,775,Camping equipment,3
+source,776,Equestrian equipment,3
+source,777,Fishing equipment,3
+source,778,Hunting and trapping equipment— except firearms,3
+source,779,Athletic and outdoor equipment— n.e.c.,3
+source,78,"Firearms, law enforcement, and other self-defense equipment",2s
+source,780,"Firearms, law enforcement, and other self-defense equipment— unspecified",3
+source,781,"Firearms, air-powered guns",3s
+source,7810,"Firearms, air-powered guns— unspecified",4
+source,7811,Handguns,4
+source,7812,Long guns,4
+source,7813,Air-powered guns,4
+source,7819,"Firearms, air-powered guns— n.e.c.",4
+source,782,Weaponized explosive devices and ammunition,3s
+source,7820,Weaponized explosive devices and ammunition— unspecified,4
+source,7821,Ammunition,4
+source,7822,Explosive devices,4
+source,7829,Weaponized explosive devices and ammunition— n.e.c.,4
+source,783,Other law enforcement and self-defense equipment,3s
+source,7830,Other law enforcement and self-defense equipment— unspecified,4
+source,7831,"Batons, clubs, blunt weapons",4
+source,7832,"Tasers, stun guns",4
+source,7833,"Tear gas, mace, pepper spray",4
+source,7834,"Handcuffs, restraint devices",4
+source,7839,Law enforcement and self-defense equipment— n.e.c.,4
+source,789,"Firearms, law enforcement, and other self-defense equipment— n.e.c.",3
+source,79,"Other Tools, instruments, equipment",2s
+source,791,Drug and tobacco paraphernalia,3
+source,792,"Toys, games",3
+source,799,"Other tools, instruments, equipment— n.e.c.",3
+source,8,VEHICLES,1s
+source,80,Vehicle— unspecified,2
+source,81,Aircraft,2s
+source,810,Aircraft— unspecified,3
+source,811,Airplanes—powered fixed wing,3s
+source,8110,"Airplane—powered fixed wing, unspecified",4
+source,8111,Airplane—jet or turbine engine,4
+source,8112,Airplane—propeller-driven or piston engine,4
+source,8119,"Airplane—powered fixed wing, n.e.c.",4
+source,812,"Helicopters, powered rotary wing aircraft",3
+source,813,Aircraft—nonpowered,3s
+source,8130,"Aircraft—nonpowered, unspecified",4
+source,8131,"Glider, hang glider—nonpowered",4
+source,8132,Parachute,4
+source,8139,"Aircraft—nonpowered, n.e.c.",4
+source,819,"Aircraft, n.e.c.",3
+source,82,Rail vehicles,2s
+source,820,Rail vehicle— unspecified,3
+source,821,"Streetcar, trolley, light rail",3
+source,822,"Subway, elevated train",3
+source,823,Heavy rail vehicles,3s
+source,8230,Heavy rail vehicles— unspecified,4
+source,8231,Freight train,4
+source,8232,Passenger train— heavy,4
+source,8233,Unattached locomotive,4
+source,8234,Unattached rail car,4
+source,8239,Heavy rail vehicles— n.e.c.,4
+source,824,"Construction, cleaning, maintenance machine— rail mounted",3
+source,825,"Industrial, mining vehicle— rail mounted",3
+source,829,Rail vehicle— n.e.c.,3
+source,83,Water vehicles,2s
+source,830,Water vehicle— unspecified,3
+source,831,Barge,3
+source,832,Commercial fishing vessel,3
+source,833,"Tugboat, towboat",3
+source,834,"Cargo ship, freighter, passenger liner",3
+source,835,"Motorboat, motorized yacht",3
+source,836,Sailboat,3
+source,837,"Rowboat, kayak, canoe, raft",3
+source,839,Water vehicle— n.e.c.,3
+source,84,Roadway vehicles— motorized,2s
+source,840,"Roadway vehicle— motorized, unspecified",3
+source,841,Emergency and security vehicles,3s
+source,8410,Emergency vehicle— unspecified,4
+source,8411,Police patrol vehicle,4
+source,8412,Ambulance,4
+source,8413,"Police or prisoner transport van, bus",4
+source,8414,"Fire truck, other emergency equipment truck",4
+source,8415,Police motorcycle,4
+source,8419,Emergency vehicles— n.e.c.,4
+source,842,"Trucks with mounted machinery, equipment",3s
+source,8420,"Trucks with mounted machines, equipment— unspecified",4
+source,8421,Tow truck,4
+source,8422,Dump trucks,4
+source,8423,Garbage trucks,4
+source,8424,Cement and concrete mixer trucks,4
+source,8425,"Boom truck, cherry picker",4
+source,8429,"Trucks with other mounted machinery, equipment— n.e.c.",4
+source,843,Trucks,3s
+source,8430,Trucks— unspecified,4
+source,8431,Pickup truck,4
+source,8432,"Straight trucks, box trucks",4
+source,8433,Tanker trucks,4
+source,8434,"Other semi, tractor-trailer",4
+source,8439,Trucks— n.e.c.,4
+source,844,Passenger vehicles,3s
+source,8440,Passenger vehicle— unspecified,4
+source,8441,Taxi,4
+source,8442,Automobile,4
+source,8443,Sports utility vehicle (SUV),4
+source,8444,"Motorcycle, moped, dirt bike",4
+source,8445,"Vans, passenger and utility",4
+source,8446,Bus,4
+source,8447,"Motor home, RV",4
+source,8449,Passenger vehicle— n.e.c.,4
+source,849,"Roadway vehicle— motorized, n.e.c.",3
+source,85,Animal or human- powered vehicles,2s
+source,850,Animal or human-powered vehicle— unspecified,3
+source,851,"Bicycle, pedal cycle",3
+source,852,"Horse-drawn carriage, buggy",3
+source,853,Animal-powered wagon,3
+source,859,Animal or human-powered vehicle— n.e.c.,3
+source,86,Off-road and industrial vehicles—powered,2s
+source,860,"Off-road or industrial vehicle—powered, unspecified",3
+source,861,Off-road passenger vehicles—powered,3s
+source,8610,"Off-road passenger vehicle—powered, unspecified",4
+source,8611,All-terrain vehicle (ATV),4
+source,8612,"Golf cart, personnel transport cart",4
+source,8613,Racecar,4
+source,8614,Snowmobile,4
+source,8619,"Off-road passenger vehicles—powered, n.e.c.",4
+source,862,"Industrial vehicles, material hauling and transport—powered",3s
+source,8620,"Industrial vehicle, material hauling and transport—powered, unspecified",4
+source,8621,"Forklift, order picker, platform truck—powered",4
+source,8622,Industrial carrier— powered,4
+source,8623,Pallet jack—riding,4
+source,8624,Airport utility vehicle— powered,4
+source,8625,Oversized industrial hauler,4
+source,8629,"Industrial vehicle, material hauling and transport—powered, n.e.c.",4
+source,863,Agricultural tractors,3
+source,869,"Off-road or industrial vehicle—powered, n.e.c.",3
+source,89,Other vehicles,2s
+source,891,Military vehicle— except tanks,3
+source,892,Tank,3
+source,893,Street sweeping and cleaning machinery,3
+source,899,Vehicle— n.e.c.,3
+source,9,SAFETY AND ENVIRONMENTAL FACTORS AND CONDITIONS,1s
+source,90,Safety and environmental factors and conditions— unspecified,2
+source,91,"Apparel, laundry, linens",2s
+source,910,"Apparel, laundry, linens— unspecified",3
+source,911,"Apparel, clothing— except safety",3s
+source,9110,"Apparel, clothing— except safety, unspecified",4
+source,9111,"Shoes, socks, footwear",4
+source,9112,"Hats, caps, headwear",4
+source,9113,Belts,4
+source,9114,"Neckties, scarves, neckwear",4
+source,9115,"Eye glasses, sunglasses",4
+source,9116,Clothing,4
+source,9118,"Multiple apparel, clothing— except safety",4
+source,9119,"Apparel, clothing— except safety, n.e.c.",4
+source,912,"Towels, linens, bedding",3
+source,913,Laundry,3
+source,919,"Apparel, laundry, linens— n.e.c.",3
+source,92,Personal protective equipment (PPE),2s
+source,920,Personal protective equipment (PPE)— unspecified,3
+source,921,Protective apparel,3s
+source,9210,Protective apparel— unspecified,4
+source,9211,Disposable and medical gloves,4
+source,9212,"Arc rated and insulating apparel, gloves",4
+source,9213,Steel-toed footwear,4
+source,9214,"Hard hat, helmet",4
+source,9215,"HAZMAT suit, gown",4
+source,9216,"High-visibility reflective clothing, accessories",4
+source,9217,"Gloves, handguards— except disposable, electric insulating",4
+source,9219,Protective apparel— n.e.c.,4
+source,922,Other protective equipment,3s
+source,9220,Other protective equipment— unspecified,4
+source,9221,"Kneepads, shin guards",4
+source,9222,Fall protection equipment,4
+source,9223,Back support belt,4
+source,9224,Human exoskeleton equipment,4
+source,9225,Eye and face protection,4
+source,9226,Hearing protection,4
+source,9229,Other protective equipment— n.e.c.,4
+source,923,Respirators,3s
+source,9230,Respirators— unspecified,4
+source,9231,Air filtering respirators,4
+source,9232,"Supplied air respirators, SCBA",4
+source,9233,Cloth facemask,4
+source,9239,Respirators— n.e.c.,4
+source,929,Personal protective equipment (PPE)— n.e.c.,3
+source,93,Safety controls and equipment— except PPE,2s
+source,930,"Safety controls and equipment— except PPE, n.e.c.",3
+source,931,Safety equipment,3s
+source,9310,Safety equipment— unspecified,4
+source,9311,Fire extinguishers,4
+source,9312,"Wheel chocks, blocks",4
+source,9313,First aid station equipment,4
+source,9319,Safety equipment— n.e.c.,4
+source,932,Engineering controls,3s
+source,9320,Engineering controls— unspecified,4
+source,9321,Machine vent hoods,4
+source,9322,Rollover protective structure (ROPS),4
+source,9323,Robotic arm perimeters,4
+source,9324,Machine guards,4
+source,9325,"Sprinkler systems, dust suppression",4
+source,9329,Engineering controls— n.e.c.,4
+source,933,Autonomous or robotic system failure,3
+source,934,Communicable disease safety protocols,3s
+source,9340,Communicable disease safety protocols— unspecified,4
+source,9341,Facility sanitization protocols,4
+source,9342,Infection screening protocols,4
+source,9343,Employee vaccination protocols,4
+source,9344,Face masking protocols,4
+source,9345,Employee work area in close proximity to others,4
+source,9349,Communicable disease safety protocols— n.e.c.,4
+source,935,Hazard communication and signage,3s
+source,9350,Hazard communication and signage— unspecified,4
+source,9351,"""Lock out/ tag out"" communication systems",4
+source,9352,Safety markers,4
+source,9353,"Lights, signs— hazard and safety",4
+source,9354,Environmental exposure monitors,4
+source,9359,Hazard communication and signage— n.e.c.,4
+source,936,"Safety practices, administrative controls",3s
+source,9360,"Safety practices, administrative controls— unspecified",4
+source,9361,Workers engaging in horseplay,4
+source,9362,Permissible exposure limits exceeded,4
+source,9363,Workers engaging in team lift,4
+source,9364,Irregular or extended work shift,4
+source,9369,"Safety practices, administrative controls— n.e.c.",4
+source,939,Safety protocols and equipment— n.e.c.,3
+source,94,"Factors and conditions specific to vehicles, mobile equipment",2s
+source,941,Vehicle or mobile equipment failure,3
+source,942,Avoiding objects in path of travel,3s
+source,9420,Avoiding objects in path of travel— unspecified,4
+source,9421,"Avoiding pedestrian, live animal in path of travel",4
+source,9422,Avoiding moving object in path of travel,4
+source,9423,Avoiding stationary object in path of travel,4
+source,943,Operator impaired— except injured or ill worker,3s
+source,9430,Operator impaired— Unspecified,4
+source,9431,Operator impaired— Vehicle occupied by injured worker,4
+source,9432,Operator impaired— Other vehicle not occupied by injured worker,4
+source,95,Environmental and elemental conditions,2s
+source,950,Environmental and elemental conditions— unspecified,3
+source,951,Disasters— except weather,3s
+source,9510,"Disasters— except weather, unspecified",4
+source,9511,"Avalanche, mudslide, rockslide",4
+source,9512,Earthquake,4
+source,9513,Wildfire,4
+source,9514,Flooding— except weather related,4
+source,9519,"Disasters— except weather, n.e.c.",4
+source,952,"Weather, atmospheric conditions",3s
+source,9520,"Weather, atmospheric conditions— unspecified",4
+source,9521,"Ice, sleet, snow, hail",4
+source,9522,"Tornado, hurricane, typhoon",4
+source,9523,Rain,4
+source,9524,"Fog, mist, haze",4
+source,9525,"High winds, gusts, turbulence",4
+source,9526,Lightning,4
+source,9527,"Waves, surges, rough seas",4
+source,9528,Multiple weather and atmospheric conditions,4
+source,9529,"Weather, atmospheric conditions— n.e.c.",4
+source,953,Environmental and elemental pressure,3s
+source,9530,Environmental pressure— unspecified,4
+source,9531,Atmospheric pressure—high or low,4
+source,9532,Water pressure—high or low,4
+source,9533,Pressurized air—blast,4
+source,9534,Pressurized water—blast,4
+source,9535,Oxygen deficient environment,4
+source,9539,Environmental pressure— n.e.c.,4
+source,954,Temperature extremes—environmental,3s
+source,9540,Temperature extremes—environmental— unspecified,4
+source,9541,Cold—environmental,4
+source,9542,Heat—environmental,4
+source,955,"Light, radiation, noise",3s
+source,9550,"Light, radiation, noise— unspecified",4
+source,9551,Sun,4
+source,9552,"Fire, flame",4
+source,9553,Welders’ flash,4
+source,9554,Lasers,4
+source,9555,Other ultraviolet (UV) light,4
+source,9556,Particle Radiation,4
+source,9557,Noise,4
+source,9559,"Light, radiation, noise— n.e.c.",4
+source,959,Other environmental and elemental conditions,3
+source,99,"Other source, secondary source",2s
+source,990,"Source, secondary source— unspecified",3
+source,991,Secondary source not applicable,3
+source,992,"Known exposure, no or unknown incidence of injury or illness",3
+source,999,"Other source, secondary source— n.e.c.",3

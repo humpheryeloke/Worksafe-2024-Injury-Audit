@@ -1,0 +1,6 @@
+﻿measure,incidents,denominator
+All five fields exact,10,100
+No potential discrepancy in any field (exact or explained or inconclusive only),82,100
+At least one potential discrepancy,18,100
+At least one conflicting-content discrepancy (Pc),4,100
+At least one inconclusive field,26,100

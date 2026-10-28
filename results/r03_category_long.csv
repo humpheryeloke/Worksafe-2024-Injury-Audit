@@ -1,0 +1,30 @@
+﻿field_no,field_name,sort_order,category_code,category_name,category_group,n,pct_of_100
+1,Nature,1,X,Exact agreement,Consistent,69,69.0
+1,Nature,2,R,Explained: recorded code supported on re-read,Consistent,10,10.0
+1,Nature,3,G,Explained: guidance / rule-interpretation difference,Consistent,12,12.0
+1,Nature,4,Ps,Potential discrepancy: recorded code less specific,Potential discrepancy,2,2.0
+1,Nature,5,Pc,Potential discrepancy: recorded code conflicts with text,Potential discrepancy,1,1.0
+1,Nature,6,N,Insufficient narrative information,Inconclusive,6,6.0
+2,Part of body,1,X,Exact agreement,Consistent,60,60.0
+2,Part of body,2,R,Explained: recorded code supported on re-read,Consistent,12,12.0
+2,Part of body,3,G,Explained: guidance / rule-interpretation difference,Consistent,17,17.0
+2,Part of body,4,Ps,Potential discrepancy: recorded code less specific,Potential discrepancy,2,2.0
+2,Part of body,5,Pc,Potential discrepancy: recorded code conflicts with text,Potential discrepancy,1,1.0
+2,Part of body,6,N,Insufficient narrative information,Inconclusive,8,8.0
+3,Event/Exposure,1,X,Exact agreement,Consistent,53,53.0
+3,Event/Exposure,2,R,Explained: recorded code supported on re-read,Consistent,6,6.0
+3,Event/Exposure,3,G,Explained: guidance / rule-interpretation difference,Consistent,25,25.0
+3,Event/Exposure,4,Ps,Potential discrepancy: recorded code less specific,Potential discrepancy,7,7.0
+3,Event/Exposure,5,Pc,Potential discrepancy: recorded code conflicts with text,Potential discrepancy,1,1.0
+3,Event/Exposure,6,N,Insufficient narrative information,Inconclusive,8,8.0
+4,Source,1,X,Exact agreement,Consistent,61,61.0
+4,Source,2,R,Explained: recorded code supported on re-read,Consistent,7,7.0
+4,Source,3,G,Explained: guidance / rule-interpretation difference,Consistent,17,17.0
+4,Source,4,Ps,Potential discrepancy: recorded code less specific,Potential discrepancy,5,5.0
+4,Source,6,N,Insufficient narrative information,Inconclusive,10,10.0
+5,Secondary source,1,X,Exact agreement,Consistent,51,51.0
+5,Secondary source,2,R,Explained: recorded code supported on re-read,Consistent,10,10.0
+5,Secondary source,3,G,Explained: guidance / rule-interpretation difference,Consistent,29,29.0
+5,Secondary source,4,Ps,Potential discrepancy: recorded code less specific,Potential discrepancy,1,1.0
+5,Secondary source,5,Pc,Potential discrepancy: recorded code conflicts with text,Potential discrepancy,1,1.0
+5,Secondary source,6,N,Insufficient narrative information,Inconclusive,8,8.0

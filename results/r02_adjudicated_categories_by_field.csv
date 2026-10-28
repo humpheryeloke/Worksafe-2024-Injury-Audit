@@ -1,0 +1,6 @@
+﻿field_no,field_name,exact_agreement,explained_recorded_supported,explained_rule_interpretation,potential_less_specific,potential_conflict,insufficient_information,total
+1,Nature,69,10,12,2,1,6,100
+2,Part of body,60,12,17,2,1,8,100
+3,Event/Exposure,53,6,25,7,1,8,100
+4,Source,61,7,17,5,0,10,100
+5,Secondary source,51,10,29,1,1,8,100
